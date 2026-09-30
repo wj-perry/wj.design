@@ -15,9 +15,13 @@
 
 ## 内容范围
 
-最近七天的 OpenAI、Anthropic、Google DeepMind、Hugging Face、Vercel、Figma 公开原帖。最多两页、200 条原帖中选取 30 条，按关键词分类，原文展示，不做自动中文翻译。归档保留 52 期，同周重跑替换当周记录。X recent search 只支持近期搜索，因此不能用于恢复很久以前漏发的周报。
+最近七天的 OpenAI、Anthropic、Google DeepMind、Hugging Face、Vercel、Figma 公开原帖。最多两页、200 条原帖中选取 30 条，按关键词分类，正文支持自动中文翻译，保留原文与原帖链接；带图片的原帖保留配图。归档保留 52 期，同周重跑替换当周记录。X recent search 只支持近期搜索，因此不能用于恢复很久以前漏发的周报。
 
 来源、分类和数量可在 `settings.json` 中调整。关键词分类不代表人工核实；网站保留原帖链接。
+
+## 自动中文翻译
+
+在 Render 的 weijie-ai-news-weekly → Environment 中设置 GOOGLE_TRANSLATE_API_KEY（Google Cloud Translation Basic v2 密钥，启用对应 API）。不要将密钥写进仓库或网页。保存环境变量并等待新部署完成后，点击 Trigger Run 补齐当前一期的翻译与配图。未配置或翻译失败时仍发布原文；已有且原文未变的译文会复用，页面访问不调用翻译 API。翻译费用按 Google 账号实际计费。
 
 ## 本地验证
 

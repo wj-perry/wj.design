@@ -23,3 +23,12 @@ test('权限错误、部分失败、空数据均阻止发布', async () => {
     await assert.rejects(collect({ token: 'test-only', settings, request: async () => response }));
   }
 });
+
+test('图片附件映射到正确帖子，仅保留可信图片来源', async () => {
+  const issue = await collect({token:'test',settings,request:async url => {
+    assert.equal(url.searchParams.get('expansions'), 'author_id,attachments.media_keys');
+    return {ok:true,json:async()=>({data:[{id:'p',text:'New API',author_id:'a',attachments:{media_keys:['image','video','bad']}}],includes:{users:[{id:'a',username:'OpenAI'}],media:[{media_key:'image',type:'photo',url:'https://pbs.twimg.com/media/test.jpg',alt_text:'图'},{media_key:'video',type:'video'},{media_key:'bad',type:'photo',url:'javascript:alert(1)'}]}})};
+  }});
+  assert.equal(issue.items[0].images.length,1);
+  assert.equal(issue.items[0].images[0].alt,'图');
+});
