@@ -1,0 +1,159 @@
+[
+  {
+    "id": "2026-09-21",
+    "label": "9月21日—27日 · AI走进研究与协作",
+    "title": "AI走进研究与协作",
+    "period": "2026年9月21日—27日",
+    "publishedAt": "2026-09-28T01:00:00Z",
+    "description": "从新模型到实验室，再到理解人的偏好，本周关注 AI 能力如何进入具体工作。历史补刊 · 根据官方资料整理为中文摘要。",
+    "items": [
+      {
+        "id": "opus55",
+        "title": "Claude Opus 5.5：编码与复杂任务的新进展",
+        "text": "Claude Opus 5.5：编码与复杂任务的新进展",
+        "textZh": "Anthropic 于 9 月 22 日发布 Opus 5.5，重点改善编码、复杂任务与运行效率。官方展示了代码迁移、游戏制作等场景。\n\n这些演示体现了模型在持续工作中的进步；实际使用仍需要结合自己的任务检验结果。",
+        "author": "Anthropic",
+        "sourceName": "Anthropic",
+        "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+        "createdAt": "2026-09-22T08:00:00Z",
+        "category": "开发",
+        "images": [],
+        "videos": [],
+        "curated": true
+      },
+      {
+        "id": "enzyme",
+        "title": "Claude 从 DNA 数据中发现新的酶系统",
+        "text": "Claude 从 DNA 数据中发现新的酶系统",
+        "textZh": "Anthropic 公布生命科学团队的早期成果：Claude 在 DNA 数据中识别出与重复序列相关的酶系统，研究人员随后开展实验。\n\n这一系统的主要功能仍待确认。AI 在这里承担发现线索与提出假设的工作，实验验证由科学家完成。",
+        "author": "Anthropic",
+        "sourceName": "Anthropic",
+        "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "createdAt": "2026-09-23T08:00:00Z",
+        "category": "研究",
+        "images": [
+          {
+            "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0f6064436a364b73ce0d2a80848ac56be7ae9ddd-1360x1160.gif",
+            "alt": "Claude 识别 DNA 重复模式的官方动画"
+          }
+        ],
+        "videos": [
+          {
+            "embedUrl": "https://www.youtube-nocookie.com/embed/DdCEmlAydcw?autoplay=0&controls=1&playsinline=1&rel=0",
+            "title": "Anthropic 官方研究介绍视频"
+          }
+        ],
+        "curated": true
+      },
+      {
+        "id": "voice",
+        "title": "ChatGPT 语音模式开始支持插件",
+        "text": "ChatGPT 语音模式开始支持插件",
+        "textZh": "9 月 23 日的更新让语音模式可以使用已连接的插件，包括在对话中创建文档、演示文稿、表格与任务。功能覆盖网页、iOS、Android 和 Work。\n\n语音交互正在从问答进一步延伸到实际工作流程。",
+        "author": "OpenAI",
+        "sourceName": "OpenAI",
+        "sourceUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "createdAt": "2026-09-23T08:00:00Z",
+        "category": "产品",
+        "images": [],
+        "videos": [],
+        "curated": true
+      },
+      {
+        "id": "swap",
+        "title": "Project Swap：代理替人换书，难点在理解偏好",
+        "text": "Project Swap：代理替人换书，难点在理解偏好",
+        "textZh": "Anthropic 让员工把书带到办公室，先向代理介绍自己的书与阅读偏好，再由代理协调交换。\n\n实验发现，结果损失更多来自代理没有准确理解人的偏好，而非代理之间的谈判。这提醒我们：能执行任务，与能准确代表用户，是两项不同的能力。",
+        "author": "Anthropic",
+        "sourceName": "Anthropic",
+        "sourceUrl": "https://www.anthropic.com/research/project-swap?curius=2071",
+        "createdAt": "2026-09-24T08:00:00Z",
+        "category": "研究",
+        "images": [
+          {
+            "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/81ec096e35d1d259eb3f47aef4edd2c25f8e3c5e-1920x1080.jpg",
+            "alt": "Project Swap 官方插图：书籍与交换匹配"
+          }
+        ],
+        "videos": [],
+        "curated": true
+      }
+    ]
+  },
+  {
+    "id": "2026-09-14",
+    "label": "9月14日—20日 · 设计与AI的新接口",
+    "title": "设计与AI的新接口",
+    "period": "2026年9月14日—20日",
+    "publishedAt": "2026-09-21T01:00:00Z",
+    "description": "设计文件、办公文档与专业研究，都在寻找和 AI 协作的新方式。历史补刊 · 根据官方资料整理为中文摘要。",
+    "items": [
+      {
+        "id": "elyx",
+        "title": "Elyx：让设计文件进入 AI 与 Git 工作流",
+        "text": "Elyx：让设计文件进入 AI 与 Git 工作流",
+        "textZh": "本周关注的新工具 Elyx，将设计组织为可读的 .elyx 本地文件，配合编辑器、CLI 和代理技能，让设计师、开发者与 AI 共用一份设计依据。\n\n官网目前开放私人测试登记。此条为当周发现，收录时间参考 9 月 16 日的 dingyi 周报，产品介绍以官网为准。",
+        "author": "Elyx",
+        "sourceName": "Elyx",
+        "sourceUrl": "https://elyx.design/",
+        "createdAt": "2026-09-16T08:00:00Z",
+        "category": "设计",
+        "images": [
+          {
+            "url": "https://elyx.design/_astro/elyx-mark.CS5qI2nF_GjjTl.webp?dpl=dpl_8mKYXb4cVP52ehByzXrdGcDVAfZ8",
+            "alt": "Elyx 官方标识"
+          }
+        ],
+        "videos": [],
+        "curated": true
+      },
+      {
+        "id": "word",
+        "title": "ChatGPT for Word 扩大开放",
+        "text": "ChatGPT for Word 扩大开放",
+        "textZh": "9 月 17 日，ChatGPT for Word 面向包括免费版在内的所有套餐开放。用户可以在 Word 中从笔记起草文档、总结内容、修改选中文本或整理标题。",
+        "author": "OpenAI",
+        "sourceName": "OpenAI",
+        "sourceUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "createdAt": "2026-09-17T08:00:00Z",
+        "category": "产品",
+        "images": [],
+        "videos": [],
+        "curated": true
+      },
+      {
+        "id": "life",
+        "title": "生命科学验证计划进入测试阶段",
+        "text": "生命科学验证计划进入测试阶段",
+        "textZh": "Anthropic 于 9 月 17 日推出生命科学验证计划，初期面向团队与机构。通过验证的研究人员可以在规定范围内使用针对生命科学工作的模型访问权限。\n\n计划将资质审核、使用范围与持续监测结合起来，尝试减少专业研究中的阻碍，同时保留其他领域的防护。",
+        "author": "Anthropic",
+        "sourceName": "Anthropic",
+        "sourceUrl": "https://www.anthropic.com/news/life-sciences-verification-program",
+        "createdAt": "2026-09-17T08:00:00Z",
+        "category": "研究",
+        "images": [
+          {
+            "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d6058e0db8e477dc782dacae46e2ec6663d165d9-1000x1000.svg",
+            "alt": "Anthropic 生命科学验证计划官方配图"
+          }
+        ],
+        "videos": [],
+        "curated": true
+      },
+      {
+        "id": "evaluation",
+        "title": "Accenture 参与嵌入式模型评估",
+        "text": "Accenture 参与嵌入式模型评估",
+        "textZh": "Anthropic 与 Accenture 宣布合作，让外部评估人员深入模型开发环境，围绕真实企业场景检验模型的可靠性与防护。\n\n嵌入式评估旨在让独立审查更贴近开发过程，模型安全的最终责任仍由 Anthropic 承担。",
+        "author": "Anthropic",
+        "sourceName": "Anthropic",
+        "sourceUrl": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+        "createdAt": "2026-09-18T08:00:00Z",
+        "category": "研究",
+        "images": [],
+        "videos": [],
+        "curated": true
+      }
+    ]
+  }
+]
