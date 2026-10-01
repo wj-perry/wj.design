@@ -32,3 +32,13 @@ test('图片附件映射到正确帖子，仅保留可信图片来源', async ()
   assert.equal(issue.items[0].images.length,1);
   assert.equal(issue.items[0].images[0].alt,'图');
 });
+
+test('视频选择最高码率 MP4，拒绝其他来源并保留预览图', async () => {
+  const issue = await collect({token:'test',settings,request:async url => {
+    assert.ok(url.searchParams.get('media.fields').includes('variants'));
+    return {ok:true,json:async()=>({data:[{id:'p',text:'API',author_id:'a',attachments:{media_keys:['v','bad']}}],includes:{users:[{id:'a',username:'OpenAI',name:'OpenAI',profile_image_url:'https://pbs.twimg.com/profile_images/a.jpg'}],media:[{media_key:'v',type:'video',preview_image_url:'https://pbs.twimg.com/media/poster.jpg',variants:[{content_type:'video/mp4',bit_rate:100,url:'https://video.twimg.com/low.mp4'},{content_type:'video/mp4',bit_rate:200,url:'https://video.twimg.com/high.mp4'},{content_type:'application/x-mpegURL',url:'https://video.twimg.com/index.m3u8'}]},{media_key:'bad',type:'video',variants:[{content_type:'video/mp4',url:'https://example.com/fake.mp4'}]}]}})};
+  }});
+  assert.equal(issue.items[0].videos.length,1);
+  assert.equal(issue.items[0].videos[0].url,'https://video.twimg.com/high.mp4');
+  assert.equal(issue.items[0].videos[0].poster,'https://pbs.twimg.com/media/poster.jpg');
+});
