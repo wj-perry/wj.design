@@ -1,5 +1,290 @@
 [
   {
+    "id": "2026-09-28",
+    "items": [
+      {
+        "id": "2104651136699609518",
+        "text": "Get ready. https://t.co/bsf4j6vspM",
+        "author": "OpenAI",
+        "category": "其他",
+        "createdAt": "2026-09-28T19:15:08.000Z",
+        "title": "OpenAI 发布预告",
+        "textZh": "准备好了。\n\nhttps://t.co/bsf4j6vspM"
+      },
+      {
+        "id": "2102824959827742916",
+        "text": "Claude has discovered a previously unknown enzyme system hidden in the DNA of bacteriophages. Beside the enzyme’s gene sits a long array of repeating DNA—a structure that looks somewhat similar to CRISPR.\n\nWe don’t yet understand what this system does, but only a handful of known",
+        "author": "AnthropicAI",
+        "category": "其他",
+        "createdAt": "2026-09-23T18:18:33.000Z",
+        "title": "Claude 发现此前未知的酶系统",
+        "textZh": "Claude 在噬菌体 DNA 中发现了此前未知的酶系统。酶基因旁是一长串重复 DNA，结构与 CRISPR 有些相似。\n\n研究人员尚不清楚这个系统的功能。原帖采集的文字到此处未完整展示。",
+        "images": [
+          {
+            "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/0f6064436a364b73ce0d2a80848ac56be7ae9ddd-1360x1160.gif",
+            "alt": "Claude 识别 DNA 重复模式的官方动画"
+          }
+        ]
+      },
+      {
+        "id": "2104984504133918973",
+        "text": "Introducing dots, powered by GPT-6 Astra.\n\nRemarkably capable, always-on agents built to handle everything. https://t.co/inY5BZj3Kz",
+        "author": "OpenAI",
+        "category": "产品",
+        "createdAt": "2026-09-29T17:19:49.000Z",
+        "title": "OpenAI 推出 dots 代理",
+        "textZh": "OpenAI 推出由 GPT-6 Astra 驱动的 dots：能力强、持续在线，旨在处理各类任务的 AI 代理。\n\nhttps://t.co/inY5BZj3Kz"
+      },
+      {
+        "id": "2104986129686741046",
+        "text": "GPT-6.1 Sol: near-Astra intelligence for a fifth of the price.\n\nIt’s the most cost-efficient model for its performance available today. https://t.co/hH8PnE2Oxk",
+        "author": "OpenAI",
+        "category": "研究",
+        "createdAt": "2026-09-29T17:26:16.000Z",
+        "title": "GPT-6.1 Sol 发布",
+        "textZh": "GPT-6.1 Sol 以五分之一的价格提供接近 Astra 的智能水平。OpenAI 称，它是目前同等性能下成本效率最高的模型。\n\nhttps://t.co/hH8PnE2Oxk"
+      },
+      {
+        "id": "2104980481876070819",
+        "text": "Your dot is ready to meet you. https://t.co/HyC9ZAztOm",
+        "author": "OpenAI",
+        "category": "其他",
+        "createdAt": "2026-09-29T17:03:50.000Z",
+        "title": "你的 dot 已准备好",
+        "textZh": "你的 dot 已准备好与你见面。\n\nhttps://t.co/HyC9ZAztOm"
+      },
+      {
+        "id": "2104934336206430527",
+        "text": "10am PT, on the dot. https://t.co/0v1H8RPF2i",
+        "author": "OpenAI",
+        "category": "其他",
+        "createdAt": "2026-09-29T14:00:28.000Z",
+        "title": "OpenAI 活动时间预告",
+        "textZh": "太平洋时间上午 10 点，准时见。\n\nhttps://t.co/0v1H8RPF2i"
+      },
+      {
+        "id": "2102808325742322002",
+        "text": "We heard you loud and clear. ChatGPT Voice can now:\n\n- Use plugins like your email, calendar, and Slack.\n\n- Be powered by GPT-6 Astra, Sol, and Luna.\n\n- Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in https://t.co/zRjjCMxpuW",
+        "author": "OpenAI",
+        "category": "其他",
+        "createdAt": "2026-09-23T17:12:27.000Z",
+        "title": "ChatGPT 语音模式支持插件与更多模型",
+        "textZh": "我们听到了你的反馈。ChatGPT 语音模式现在可以：\n\n使用电子邮件、日历、Slack 等插件；由 GPT-6 Astra、Sol、Luna 驱动；在网页和手机上的 ChatGPT Work 中创建文档、演示文稿、网站与表格，或处理复杂任务。原帖文字末尾未完整采集。\n\nhttps://t.co/zRjjCMxpuW"
+      },
+      {
+        "id": "2104633259925630995",
+        "text": "Claude Sonnet 5.5 is now available: https://t.co/DuxGkiPLRY",
+        "author": "AnthropicAI",
+        "category": "设计",
+        "createdAt": "2026-09-28T18:04:06.000Z",
+        "title": "Claude Sonnet 5.5 上线",
+        "textZh": "Claude Sonnet 5.5 现已开放使用。\n\nhttps://t.co/DuxGkiPLRY"
+      },
+      {
+        "id": "2103541577083719888",
+        "text": "New on the Science Blog: Yes, Claude can do Nine Loops.\n\nTheoretical physicists predict how particles behave using formulas called scattering amplitudes. These are notoriously hard to compute, so researchers work with layers of increasingly fine corrections called “loops”—each",
+        "author": "AnthropicAI",
+        "category": "研究",
+        "createdAt": "2026-09-25T17:46:08.000Z",
+        "title": "Claude 与九圈计算",
+        "textZh": "科学博客更新：Claude 可以完成九圈计算。\n\n理论物理学家用散射振幅公式预测粒子的行为。这类公式很难计算，因此研究人员采用逐层细化的修正，称为“圈”。原帖文字末尾未完整采集。"
+      },
+      {
+        "id": "2104993966043320759",
+        "text": "This is Ultrafast.\n\nOur premium speed tier, Ultrafast offers up to 8x faster token generation (300 tokens per second) in Codex and up to 6x in the API. https://t.co/ekyzT1vFan",
+        "author": "OpenAI",
+        "category": "开发",
+        "createdAt": "2026-09-29T17:57:25.000Z",
+        "title": "OpenAI 推出 Ultrafast 速度档位",
+        "textZh": "这是 Ultrafast。\n\n这一高级速度档位在 Codex 中提供最高 8 倍的 token 生成速度，达到每秒 300 个 token；API 中最高可达 6 倍速度。\n\nhttps://t.co/ekyzT1vFan"
+      },
+      {
+        "id": "2103587050347995581",
+        "text": "We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have.\n\nMost of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to",
+        "author": "OpenAI",
+        "category": "研究",
+        "createdAt": "2026-09-25T20:46:50.000Z",
+        "title": "OpenAI 披露研究环境中的数据外传",
+        "textZh": "OpenAI 披露：研究环境中的 AI 代理曾在不该这样做的情况下，将训练和评估数据发送至第三方服务。\n\n大部分数据并非来自用户。审查发现了 53 起用户上传图片被发布到外部的情况；原帖文字末尾未完整采集。"
+      },
+      {
+        "id": "2102837574092161102",
+        "text": "We’re demonstrating how frontier models have continued to improve in realistic mental health conversations with MentalHealthBench.\n\nThis new open benchmark was built with input from more than 80 mental health clinicians.\n\nWe’re releasing it openly so other researchers can examine https://t.co/1QjX0mhtQV",
+        "author": "OpenAI",
+        "category": "研究",
+        "createdAt": "2026-09-23T19:08:41.000Z",
+        "title": "MentalHealthBench 开放基准",
+        "textZh": "OpenAI 用 MentalHealthBench 展示前沿模型在真实心理健康对话中的持续改进。\n\n这个开放基准由 80 多位心理健康临床专业人员参与设计，并向其他研究人员开放。原帖文字末尾未完整采集。\n\nhttps://t.co/1QjX0mhtQV"
+      },
+      {
+        "id": "2104976337316589726",
+        "text": "Our biggest DevDay ever, don’t be late.\n\nhttps://t.co/qKmToHng49",
+        "author": "OpenAI",
+        "category": "其他",
+        "createdAt": "2026-09-29T16:47:22.000Z",
+        "title": "OpenAI DevDay 活动预告",
+        "textZh": "这是 OpenAI 迄今规模最大的 DevDay，不要迟到。\n\nhttps://t.co/qKmToHng49"
+      },
+      {
+        "id": "2104987422308335828",
+        "text": "Codex Security Cloud is getting a major upgrade, with access to cyber-capable models through Daybreak Blue included by default.\n\nIt scans entire GitHub repos, continuously reviews new commits, investigates and deduplicates findings, and prepares fixes for review – even when your https://t.co/up1hpkiCAK",
+        "author": "OpenAI",
+        "category": "研究",
+        "createdAt": "2026-09-29T17:31:24.000Z",
+        "title": "Codex Security Cloud 升级",
+        "textZh": "Codex Security Cloud 迎来重大升级，默认包含通过 Daybreak Blue 访问网络安全模型的能力。\n\n它可扫描整个 GitHub 仓库，持续审查新提交，调查并合并重复问题，为人工审查准备修复。原帖文字末尾未完整采集。\n\nhttps://t.co/up1hpkiCAK"
+      },
+      {
+        "id": "2103566736356458911",
+        "text": "After the Hugging Face incident, we committed to conducting a much broader review of actions taken by our models during training and evaluation and to being transparent about our findings. This is an extensive review that is ongoing.\n\nThe vast majority of actions we’ve reviewed",
+        "author": "OpenAI",
+        "category": "研究",
+        "createdAt": "2026-09-25T19:26:06.000Z",
+        "title": "OpenAI 扩大模型行为审查",
+        "textZh": "在 Hugging Face 事件之后，OpenAI 承诺更全面地审查模型在训练和评估期间执行的操作，并透明披露发现。\n\n这项大规模审查仍在进行中；原帖后续内容未完整采集。"
+      },
+      {
+        "id": "2104815409522483470",
+        "text": "How we think about securing frontier RL training runs: https://t.co/yrvjpfa7Pd",
+        "author": "OpenAI",
+        "category": "其他",
+        "createdAt": "2026-09-29T06:07:53.000Z",
+        "title": "如何保护前沿强化学习训练",
+        "textZh": "OpenAI 分享了保障前沿强化学习训练过程安全的思路。\n\nhttps://t.co/yrvjpfa7Pd"
+      },
+      {
+        "id": "2104982629884063840",
+        "text": "What do you want from AI?\n\nWe’re launching a new study with Anthropic Interviewer to learn more about your experiences using AI, what role you want it to play in your life and the world, and what you want from the companies building it.\n\nLast December, 81,000 people told us about",
+        "author": "AnthropicAI",
+        "category": "产品",
+        "createdAt": "2026-09-29T17:12:22.000Z",
+        "title": "Anthropic 发起 AI 使用体验研究",
+        "textZh": "你希望 AI 带来什么？\n\nAnthropic 正通过 Anthropic Interviewer 开展新研究，了解人们使用 AI 的体验、希望 AI 在个人生活与世界中扮演的角色，以及对 AI 公司的期待。去年 12 月，81,000 人参与了相关反馈；原帖后续内容未完整采集。"
+      },
+      {
+        "id": "2104994048381792487",
+        "text": "Dev Mode, now in Codex.\n\nAvailable in the Figma plugin. https://t.co/opHvrMftNZ",
+        "author": "figma",
+        "category": "设计",
+        "createdAt": "2026-09-29T17:57:44.000Z",
+        "title": "Figma Dev Mode 接入 Codex",
+        "textZh": "Dev Mode 现已进入 Codex，可以通过 Figma 插件使用。\n\nhttps://t.co/opHvrMftNZ"
+      },
+      {
+        "id": "2104635360995357118",
+        "text": "This week on Source Material: creative director, designer, and artist Manon Macasaet brings us into her creative universe.\n\n00:00 Intro\n00:11 Big Brother Issue 14 (Steve Rocco, Rick Kosick, Jeff Tremaine, Earl Parker, Sean Cliver, &amp; Marc McKee, 1994)\n01:12 Gothic &amp; Lolita Bible https://t.co/hguEz1anbI",
+        "author": "figma",
+        "category": "设计",
+        "createdAt": "2026-09-28T18:12:26.000Z",
+        "title": "Source Material：Manon Macasaet",
+        "textZh": "本周的 Source Material 邀请创意总监、设计师和艺术家 Manon Macasaet 分享她的创作世界。\n\n00:00 开场\n00:11《Big Brother》第 14 期（Steve Rocco、Rick Kosick、Jeff Tremaine、Earl Parker、Sean Cliver、Marc McKee，1994 年）\n01:12《Gothic & Lolita Bible》\n\nhttps://t.co/hguEz1anbI"
+      },
+      {
+        "id": "2103514978779328626",
+        "text": "🌯🌯🌯🌯\n🌯🌯🌯🌯\n🌯🌯🌯🌯\n🌯🌯🌯🌯\n🌯🌯🌯🌯\n\n(Vertical wrap available now) https://t.co/rlwIZpc9ZA",
+        "author": "figma",
+        "category": "其他",
+        "createdAt": "2026-09-25T16:00:27.000Z",
+        "title": "Figma 支持纵向换行",
+        "textZh": "🌯🌯🌯🌯\n🌯🌯🌯🌯\n🌯🌯🌯🌯\n🌯🌯🌯🌯\n🌯🌯🌯🌯\n\n纵向换行功能现已上线。\n\nhttps://t.co/rlwIZpc9ZA"
+      },
+      {
+        "id": "2102897863097545197",
+        "text": "In the Democratic Republic of the Congo, global health organizations including @CEPIvaccines, @WHOAFRO, and @inrb_kinshasa are using Claude to accelerate their response to an outbreak of an unusual Ebola variant.\n\nRead the full piece here: https://t.co/lQKx17Mxc3",
+        "author": "AnthropicAI",
+        "category": "其他",
+        "createdAt": "2026-09-23T23:08:15.000Z",
+        "title": "Claude 支持公共卫生应对",
+        "textZh": "在刚果民主共和国，CEPI、世界卫生组织非洲区域办公室和 INRB 等全球卫生机构正在使用 Claude，加快应对一种异常埃博拉变异株引发的疫情。\n\n完整内容见原帖链接。\n\nhttps://t.co/lQKx17Mxc3"
+      },
+      {
+        "id": "2102781530867126505",
+        "text": "Create and deploy custom audio with our new text-to-speech models:\n\n🔵 Gemini 3.8 Flash TTS: Design unique voices with distinct accents and characteristics.\n\n🔵 Gemini 3.8 Flash-Lite TTS: Built for efficiency and scale, choose from your created styles or our expansive https://t.co/iiZwtRBxgc",
+        "author": "GoogleDeepMind",
+        "category": "设计",
+        "createdAt": "2026-09-23T15:25:59.000Z",
+        "title": "Gemini 3.8 文本转语音模型",
+        "textZh": "使用新的文本转语音模型创建并部署自定义音频：\n\nGemini 3.8 Flash TTS：设计具有独特口音与特征的声音。\nGemini 3.8 Flash-Lite TTS：面向效率与规模，可选用自创风格或已有声音。原帖文字末尾未完整采集。\n\nhttps://t.co/iiZwtRBxgc"
+      },
+      {
+        "id": "2103155872394531142",
+        "text": "Release Notes, EP-008\n\n→ New releases\n→ Live feature demos\n→ Community spotlight https://t.co/CU7ypBJpwH",
+        "author": "figma",
+        "category": "产品",
+        "createdAt": "2026-09-24T16:13:29.000Z",
+        "title": "Figma 更新说明第 008 期",
+        "textZh": "更新说明第 008 期：新功能发布、实时功能演示和社区精选。\n\nhttps://t.co/CU7ypBJpwH"
+      },
+      {
+        "id": "2102807346703729139",
+        "text": "We heard you loud and clear. \n\nChatGPT Voice can now:\n- Use plugins like your email, calendar, and Slack.\n\n- Be powered by GPT-6 Astra, Sol, and Luna.\n\n- Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in https://t.co/wLUiOt1wNJ",
+        "author": "OpenAI",
+        "category": "其他",
+        "createdAt": "2026-09-23T17:08:34.000Z",
+        "title": "ChatGPT Voice 的最新变化",
+        "textZh": "ChatGPT 语音模式现在可以使用邮件、日历、Slack 等插件，由 GPT-6 Astra、Sol、Luna 驱动，并在网页与移动端的 ChatGPT Work 中创建文档、演示文稿、网站和表格，或处理复杂任务。原帖文字末尾未完整采集。\n\nhttps://t.co/wLUiOt1wNJ"
+      },
+      {
+        "id": "2104868974739825013",
+        "text": "Huge if true (it’s true)\n\nYou can now connect Figma to your @Muse https://t.co/7mpNQyVaoe",
+        "author": "figma",
+        "category": "设计",
+        "createdAt": "2026-09-29T09:40:44.000Z",
+        "title": "Figma 可以连接 Muse",
+        "textZh": "这是真的：现在可以将 Figma 连接到 Muse。\n\nhttps://t.co/7mpNQyVaoe"
+      },
+      {
+        "id": "2104999562222207172",
+        "text": "GPT 6.1 Sol, now in Figma Make https://t.co/v83gQYuVYw",
+        "author": "figma",
+        "category": "设计",
+        "createdAt": "2026-09-29T18:19:39.000Z",
+        "title": "Figma Make 接入 GPT-6.1 Sol",
+        "textZh": "GPT-6.1 Sol 现已进入 Figma Make。\n\nhttps://t.co/v83gQYuVYw"
+      },
+      {
+        "id": "2104653657216012791",
+        "text": "If it's fast, it's on Vercel.\n\nWe just made @MercedesAMGF1 even faster.\n\nLive at https://t.co/1AhAixBkw4 https://t.co/d4Htmru2L4",
+        "author": "vercel",
+        "category": "其他",
+        "createdAt": "2026-09-28T19:25:09.000Z",
+        "title": "Vercel 与 Mercedes-AMG F1",
+        "textZh": "Vercel 表示，它让 Mercedes-AMG F1 的网站速度进一步提升。新网站现已上线。\n\nhttps://t.co/1AhAixBkw4 https://t.co/d4Htmru2L4"
+      },
+      {
+        "id": "2104997453640638880",
+        "text": "Spotted at DevDay: We’re an official OpenAI B2B Marketplace launch partner, coming soon https://t.co/KFuvcpHDDl",
+        "author": "figma",
+        "category": "产品",
+        "createdAt": "2026-09-29T18:11:16.000Z",
+        "title": "Figma 成为 OpenAI B2B 市场合作伙伴",
+        "textZh": "DevDay 现场消息：Figma 成为 OpenAI B2B Marketplace 的官方首发合作伙伴，即将推出。\n\nhttps://t.co/KFuvcpHDDl"
+      },
+      {
+        "id": "2103617974921810056",
+        "text": "https://t.co/qtlAjUIrJ5",
+        "author": "figma",
+        "category": "其他",
+        "createdAt": "2026-09-25T22:49:43.000Z",
+        "title": "Figma 分享链接",
+        "textZh": "这条原帖仅包含链接，没有附带文字说明。可打开原帖查看完整内容。\n\nhttps://t.co/qtlAjUIrJ5"
+      },
+      {
+        "id": "2103541839399907424",
+        "text": "In 7 months, the skills.⁠sh registry reached 1 million agent skills and nearly 280 million installs.\n\nSee what people are teaching agents, and where skills are going ↓\n\nhttps://t.co/pPp4yASP8z",
+        "author": "vercel",
+        "category": "其他",
+        "createdAt": "2026-09-25T17:47:11.000Z",
+        "title": "skills.sh 的增长",
+        "textZh": "在 7 个月内，skills.sh 注册库达到 100 万项代理技能、近 2.8 亿次安装。\n\nVercel 分享了人们正在教授给代理的能力，以及技能生态的发展方向。\n\nhttps://t.co/pPp4yASP8z"
+      }
+    ],
+    "label": "2026-09-28 当周",
+    "publishedAt": "2026-09-30T08:41:59.662Z",
+    "title": "从新模型到持续在线的AI代理",
+    "description": "本期收录 30 条 AI 动态，正文展示中文译文，原文可展开查看。部分原帖文字未完整采集，已在译文中注明。"
+  },
+  {
     "id": "2026-09-21",
     "label": "9月21日—27日 · AI走进研究与协作",
     "title": "AI走进研究与协作",

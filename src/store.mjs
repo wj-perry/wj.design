@@ -8,6 +8,15 @@ export async function initialize() {
   for (const issue of history) {
     if (Date.now() - Date.parse(issue.id) > 52 * 7 * 86400000) continue;
     await pool.query('INSERT INTO ai_news_issues (id, payload) VALUES ($1, $2) ON CONFLICT (id) DO NOTHING', [issue.id, JSON.stringify(issue)]);
+    const existing = (await pool.query('SELECT payload FROM ai_news_issues WHERE id = $1', [issue.id])).rows[0]?.payload;
+    if (existing) {
+      const cached = new Map(issue.items.map(item => [item.id, item]));
+      const patched = {...existing, title:existing.title || issue.title, description:existing.description || issue.description, items:existing.items.map(item => {
+        const old = cached.get(item.id);
+        return old?.text === item.text ? {...item, textZh:item.textZh || old.textZh, title:item.title || old.title, images:item.images?.length ? item.images : old.images || []} : item;
+      })};
+      if (JSON.stringify(patched) !== JSON.stringify(existing)) await pool.query('UPDATE ai_news_issues SET payload = $2 WHERE id = $1 AND payload = $3::jsonb', [issue.id, JSON.stringify(patched), JSON.stringify(existing)]);
+    }
   }
 }
 export async function listIssues() {
