@@ -24,9 +24,9 @@ services:
     runtime: node
     plan: starter
     region: singapore
-    schedule: "45 10 5 10 *"
+    schedule: "0 1 * * *"
     buildCommand: npm ci --omit=dev
-    startCommand: node src/run.mjs --backfill-oct-2026
+    startCommand: npm run collect
     envVars:
       - key: X_BEARER_TOKEN
         sync: false
