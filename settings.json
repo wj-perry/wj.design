@@ -1,11 +1,82 @@
 {
-  "query": "(from:OpenAI OR from:AnthropicAI OR from:GoogleDeepMind OR from:huggingface OR from:vercel OR from:figma) -is:retweet -is:reply",
+  "query": "(from:OpenAI OR from:AnthropicAI OR from:GoogleDeepMind OR from:huggingface OR from:vercel OR from:figma OR from:karpathy OR from:bcherny OR from:trq212 OR from:polynoamial OR from:gabriel1 OR from:jxnlco OR from:OfficialLoganK OR from:ammaar OR from:fofrAI OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:ai_explorer25 OR from:milichab OR from:skcd42) -is:retweet -is:reply",
   "maxPages": 2,
-  "maxItems": 30,
+  "maxItems": 15,
   "categories": {
-    "设计": ["design", "figma", "ux", "设计"],
-    "产品": ["launch", "introducing", "release", "product", "发布"],
-    "开发": ["api", "sdk", "developer", "coding", "开发"],
-    "研究": ["research", "paper", "benchmark", "model", "研究"]
-  }
+    "设计": [
+      "design",
+      "figma",
+      "ux",
+      "设计"
+    ],
+    "产品": [
+      "launch",
+      "introducing",
+      "release",
+      "product",
+      "发布"
+    ],
+    "开发": [
+      "api",
+      "sdk",
+      "developer",
+      "coding",
+      "开发"
+    ],
+    "研究": [
+      "research",
+      "paper",
+      "benchmark",
+      "model",
+      "研究"
+    ]
+  },
+  "cadence": "daily",
+  "officialAccounts": [
+    "OpenAI",
+    "AnthropicAI",
+    "GoogleDeepMind",
+    "huggingface",
+    "vercel",
+    "figma"
+  ],
+  "bloggerAccounts": [
+    "karpathy",
+    "bcherny",
+    "trq212",
+    "polynoamial",
+    "gabriel1",
+    "jxnlco",
+    "OfficialLoganK",
+    "ammaar",
+    "fofrAI",
+    "leerob",
+    "ericzakariasson",
+    "mntruell",
+    "ai_explorer25",
+    "milichab",
+    "skcd42"
+  ],
+  "bloggerKeywords": [
+    "ai",
+    "llm",
+    "claude",
+    "codex",
+    "gemini",
+    "grok",
+    "sora",
+    "cursor",
+    "agent",
+    "模型",
+    "人工智能",
+    "智能体",
+    "coding",
+    "vibe",
+    "mcp",
+    "prompt",
+    "inference",
+    "research",
+    "design",
+    "figma"
+  ]
 }

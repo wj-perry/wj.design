@@ -24,7 +24,7 @@ services:
     runtime: node
     plan: starter
     region: singapore
-    schedule: "0 1 * * 1"
+    schedule: "0 1 * * *"
     buildCommand: npm ci --omit=dev
     startCommand: npm run collect
     envVars:

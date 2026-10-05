@@ -42,3 +42,22 @@ test('视频选择最高码率 MP4，拒绝其他来源并保留预览图', asyn
   assert.equal(issue.items[0].videos[0].url,'https://video.twimg.com/high.mp4');
   assert.equal(issue.items[0].videos[0].poster,'https://pbs.twimg.com/media/poster.jpg');
 });
+
+test('daily issue uses Shanghai date, queries 24h, excludes published items and preserves media', async () => {
+  const now = new Date('2026-10-05T16:00:00Z');
+  const dailySettings = {...settings, cadence:'daily', maxItems:15};
+  const issue = await collect({token:'test',settings:dailySettings,now,previousItems:[{id:'old',text:'old API'}],request:async url=>{
+    assert.equal(url.searchParams.get('start_time'),'2026-10-04T16:01:00.000Z');
+    return {ok:true,json:async()=>({data:[{id:'old',text:'old API',author_id:'a'},{id:'new',text:'New API release',author_id:'a'}],includes:{users:[{id:'a',username:'OpenAI'}]}})};
+  }});
+  assert.equal(issue.id,'2026-10-06-daily');
+  assert.equal(issue.cadence,'daily');
+  assert.deepEqual(issue.items.map(x=>x.id),['new']);
+});
+
+test('daily caps at 15 and prioritizes substantive releases over popular teasers', async () => {
+  const posts=[{id:'teaser',text:'Get ready',author_id:'a',public_metrics:{like_count:999999}},...Array.from({length:20},(_,i)=>({id:String(i),text:`New API release ${i}`,author_id:'a',public_metrics:{like_count:i}}))];
+  const issue=await collect({token:'test',settings:{...settings,cadence:'daily',maxItems:15},request:async()=>({ok:true,json:async()=>({data:posts,includes:{users:[{id:'a',username:'OpenAI'}]}})})});
+  assert.equal(issue.items.length,15);
+  assert.ok(issue.items.every(x=>x.id!=='teaser'));
+});
