@@ -61,3 +61,21 @@ test('daily caps at 15 and prioritizes substantive releases over popular teasers
   assert.equal(issue.items.length,15);
   assert.ok(issue.items.every(x=>x.id!=='teaser'));
 });
+
+test('multiple source queries aggregate posts, reset paging and deduplicate before selection', async () => {
+  const daily={...settings,cadence:'daily',maxItems:15,queries:['from:OpenAI','from:figma']};
+  const calls=[];
+  const issue=await collect({token:'test',settings:daily,request:async url=>{
+    calls.push([url.searchParams.get('query'),url.searchParams.get('next_token')]);
+    return {ok:true,json:async()=>({data:[{id:'shared',text:'New API release',author_id:'a'},{id:url.searchParams.get('query'),text:'New design release',author_id:'a'}],includes:{users:[{id:'a',username:'OpenAI'}]}})};
+  }});
+  assert.deepEqual(calls,[['from:OpenAI',null],['from:figma',null]]);
+  assert.equal(issue.items.length,3);
+});
+test('a failed source query prevents publishing a partial daily edition', async () => {
+  let calls=0;
+  await assert.rejects(collect({token:'test',settings:{...settings,queries:['from:OpenAI','from:figma']},request:async()=>{
+    calls++;
+    return calls===1?{ok:true,json:async()=>({data:[{id:'p',text:'New API',author_id:'a'}],includes:{users:[{id:'a',username:'OpenAI'}]}})}:{ok:false,status:429};
+  }}));
+});

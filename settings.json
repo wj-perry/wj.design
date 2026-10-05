@@ -1,5 +1,4 @@
 {
-  "query": "(from:OpenAI OR from:AnthropicAI OR from:GoogleDeepMind OR from:huggingface OR from:vercel OR from:figma OR from:karpathy OR from:bcherny OR from:trq212 OR from:polynoamial OR from:gabriel1 OR from:jxnlco OR from:OfficialLoganK OR from:ammaar OR from:fofrAI OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:ai_explorer25 OR from:milichab OR from:skcd42 OR from:perry_weijie) -is:retweet -is:reply",
   "maxPages": 2,
   "maxItems": 15,
   "categories": {
@@ -79,5 +78,40 @@
     "research",
     "design",
     "figma"
+  ],
+  "additionalAccounts": [
+    "Kimi_Moonshot",
+    "AskPerplexity",
+    "MetaVR_Official",
+    "typesafeai",
+    "neuralink",
+    "Kling_ai",
+    "HyperFrames_",
+    "HeyGen",
+    "JensenHuang",
+    "screenkite_com",
+    "MicrosoftAI",
+    "gs_ai_",
+    "ChatGPT",
+    "robotaxi",
+    "Tesla_AI",
+    "XDevelopers",
+    "nvidia",
+    "NVIDIARobotics",
+    "cursor_ai",
+    "grok",
+    "googlegemma",
+    "LocallyAIApp",
+    "Tesla_Optimus",
+    "dreamina_ai",
+    "TencentAI_News",
+    "Weixin_WeChat",
+    "sundarpichai",
+    "GoogleAIStudio"
+  ],
+  "queries": [
+    "(from:OpenAI OR from:AnthropicAI OR from:GoogleDeepMind OR from:huggingface OR from:vercel OR from:figma OR from:karpathy OR from:bcherny OR from:trq212 OR from:polynoamial OR from:gabriel1 OR from:jxnlco OR from:OfficialLoganK OR from:ammaar OR from:fofrAI OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:ai_explorer25 OR from:milichab OR from:skcd42 OR from:perry_weijie OR from:Kimi_Moonshot) -is:retweet -is:reply",
+    "(from:AskPerplexity OR from:MetaVR_Official OR from:typesafeai OR from:neuralink OR from:Kling_ai OR from:HyperFrames_ OR from:HeyGen OR from:JensenHuang OR from:screenkite_com OR from:MicrosoftAI OR from:gs_ai_ OR from:ChatGPT OR from:robotaxi OR from:Tesla_AI OR from:XDevelopers OR from:nvidia OR from:NVIDIARobotics OR from:cursor_ai OR from:grok OR from:googlegemma OR from:LocallyAIApp OR from:Tesla_Optimus) -is:retweet -is:reply",
+    "(from:dreamina_ai OR from:TencentAI_News OR from:Weixin_WeChat OR from:sundarpichai OR from:GoogleAIStudio) -is:retweet -is:reply"
   ]
 }
