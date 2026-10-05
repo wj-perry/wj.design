@@ -1,5 +1,5 @@
 {
-  "query": "(from:OpenAI OR from:AnthropicAI OR from:GoogleDeepMind OR from:huggingface OR from:vercel OR from:figma OR from:karpathy OR from:bcherny OR from:trq212 OR from:polynoamial OR from:gabriel1 OR from:jxnlco OR from:OfficialLoganK OR from:ammaar OR from:fofrAI OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:ai_explorer25 OR from:milichab OR from:skcd42) -is:retweet -is:reply",
+  "query": "(from:OpenAI OR from:AnthropicAI OR from:GoogleDeepMind OR from:huggingface OR from:vercel OR from:figma OR from:karpathy OR from:bcherny OR from:trq212 OR from:polynoamial OR from:gabriel1 OR from:jxnlco OR from:OfficialLoganK OR from:ammaar OR from:fofrAI OR from:leerob OR from:ericzakariasson OR from:mntruell OR from:ai_explorer25 OR from:milichab OR from:skcd42 OR from:perry_weijie) -is:retweet -is:reply",
   "maxPages": 2,
   "maxItems": 15,
   "categories": {
@@ -55,7 +55,8 @@
     "mntruell",
     "ai_explorer25",
     "milichab",
-    "skcd42"
+    "skcd42",
+    "perry_weijie"
   ],
   "bloggerKeywords": [
     "ai",
