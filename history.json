@@ -440,5 +440,675 @@
         "curated": true
       }
     ]
+  },
+  {
+    "id": "2026-10-04-daily",
+    "items": [
+      {
+        "id": "2106572514344272304",
+        "text": "list of 15 best AI researchers on X:\n\n1. @karpathy  — Andrej Karpathy\n2. @rasbt  — Sebastian Raschka\n3. @AndrewYNg — Andrew Ng\n4. @drfeifei — Fei-Fei Li\n5. @demishassabis — Demis Hassabis\n6. @GaryMarcus  — Gary Marcus\n7.  @ai_explorer25  — AI Explorer\n8.  @maximelabonne  — Maxime",
+        "author": "ai_explorer25",
+        "avatar": "https://pbs.twimg.com/profile_images/2105533042823659520/S5FX6rIU_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "研究",
+        "createdAt": "2026-10-04T02:30:00.000Z",
+        "authorName": "AI_Explorer",
+        "title": "值得关注的 AI 研究者账号",
+        "textZh": "AI Explorer 推荐了一份 X 上的 AI 研究者名单，包括 Andrej Karpathy、Sebastian Raschka、Andrew Ng、李飞飞、Demis Hassabis、Gary Marcus 等。\n\n原帖节选，完整名单请查看原帖。",
+        "insightZh": "这类名单适合作为发现信息源的入口，但推荐顺序并不代表研究水平排名。持续跟踪论文、代码和实际成果，比只关注账号热度更有价值。"
+      },
+      {
+        "id": "2106580068499939470",
+        "text": "Kling AI at Advertising Week New York 2026 | Agenda Revealed\n\nOn October 6, Kling AI will take the stage at Advertising Week New York for the panel, “The New Production Engine: Powering Creativity at Scale with Kling AI.” Ahead of the launch of Kling 4.0, we’ll also share a https://t.co/1i6DlS9pkZ",
+        "author": "Kling_ai",
+        "avatar": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+        "images": [
+          {
+            "alt": "原帖配图",
+            "url": "https://pbs.twimg.com/media/HTtbP2tWEAA0ATh.jpg",
+            "width": 2160,
+            "height": 2700
+          },
+          {
+            "alt": "原帖配图",
+            "url": "https://pbs.twimg.com/media/HTtbP37XAAAgrZD.jpg",
+            "width": 2160,
+            "height": 2700
+          }
+        ],
+        "videos": [],
+        "category": "产品",
+        "createdAt": "2026-10-04T03:00:01.000Z",
+        "authorName": "Kling AI",
+        "title": "可灵预告纽约广告周议程",
+        "textZh": "可灵 AI 公布 2026 年纽约广告周议程：10 月 6 日将参与“The New Production Engine: Powering Creativity at Scale with Kling AI”讨论，并在 Kling 4.0 发布前分享更多信息。\n\n原帖节选，后续内容请查看原帖。",
+        "insightZh": "生成视频正从单次创作走向广告生产流程。真正影响团队采用的因素，将是镜头可控性、批量一致性、版权和单位成片成本；这则活动预告尚未提供这些答案。"
+      },
+      {
+        "id": "2106452188193276268",
+        "text": "You pay for AI. Then do all the copy-pasting for it.\n\nHedwig puts your tools in one workspace, with an AI agent that sees the context and works across them.\n\nFor agencies juggling client emails, briefs, and follow-ups, this could be a killer setup.\n\nForget killing a https://t.co/UH6GEsoZxi",
+        "author": "ai_explorer25",
+        "avatar": "https://pbs.twimg.com/profile_images/2105533042823659520/S5FX6rIU_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "其他",
+        "createdAt": "2026-10-03T18:31:52.000Z",
+        "authorName": "AI_Explorer",
+        "title": "Hedwig 将工具与代理放进同一工作区",
+        "textZh": "你为 AI 付费，却仍要替它反复复制粘贴。Hedwig 将工具放进同一个工作区，让 AI 代理看到上下文并跨工具工作；作者认为，这对同时处理客户邮件、简报和跟进的代理机构可能很有帮助。\n\n原帖节选。",
+        "insightZh": "统一工作区的价值在于减少上下文搬运，尤其适合频繁切换客户和任务的团队。评估时还应检查代理能够执行哪些操作、权限如何控制，以及错误能否撤回。"
+      },
+      {
+        "id": "2106727026635808860",
+        "text": "https://t.co/WqVDOUGWeW",
+        "author": "Kling_ai",
+        "avatar": "https://pbs.twimg.com/profile_images/1905183334021697536/8agjzVoq_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "其他",
+        "createdAt": "2026-10-04T12:43:58.000Z",
+        "authorName": "Kling AI",
+        "title": "可灵分享原帖链接",
+        "textZh": "可灵 AI 分享了一个链接，当前采集结果没有附带文字说明。请通过原帖入口查看具体内容。",
+        "insightZh": "只有链接不足以判断是否有新功能或产品发布。本条保留为来源入口，后续采集应进一步识别链接正文，避免把缺少信息的帖子当成完整资讯。"
+      },
+      {
+        "id": "2106619574267396173",
+        "text": "Instead of just watching an hour of Netflix, why not dive into this 2-hour Stanford lecture on AI careers? It’s packed with insights that could give you a real edge in the AI race, more than all the AI content you’ve seen this year. https://t.co/1079Vdj0MT",
+        "author": "ai_explorer25",
+        "avatar": "https://pbs.twimg.com/profile_images/2105533042823659520/S5FX6rIU_normal.jpg",
+        "images": [],
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2106422438036996097/vid/avc1/1280x720/J57s7Bdy0Axolr-D.mp4",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106422438036996097/img/1CzXAcdtPOzfnUWo.jpg"
+          }
+        ],
+        "category": "其他",
+        "createdAt": "2026-10-04T05:37:00.000Z",
+        "authorName": "AI_Explorer",
+        "title": "斯坦福 AI 职业讲座推荐",
+        "textZh": "作者推荐一段两小时的斯坦福 AI 职业讲座，认为其中的见解值得花时间学习，而不只是浏览零散的 AI 内容。",
+        "insightZh": "长讲座能提供比短帖更完整的背景，但学习收益取决于内容是否契合自己的阶段。可以先看目录，再选择与研究、产品或工程职业相关的部分。"
+      },
+      {
+        "id": "2106726446681161757",
+        "text": "Claude FULL COURSE 1 HOUR (Build &amp; Automate Anything https://t.co/J0h9MRGa9O",
+        "author": "ai_explorer25",
+        "avatar": "https://pbs.twimg.com/profile_images/2105533042823659520/S5FX6rIU_normal.jpg",
+        "images": [],
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2106725706763993088/vid/avc1/1280x720/sfVgML67kC8lyMxX.mp4",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106725706763993088/img/Jbv37EPSuK2U49a1.jpg"
+          }
+        ],
+        "category": "其他",
+        "createdAt": "2026-10-04T12:41:40.000Z",
+        "authorName": "AI_Explorer",
+        "title": "Claude 构建与自动化课程",
+        "textZh": "作者分享一门约一小时的 Claude 课程，主题是使用 Claude 构建和自动化任务。",
+        "insightZh": "课程推荐本身不能证明内容的质量或时效性。优先检查示例是否能复现、使用哪个版本，以及是否解释了权限和失败处理。"
+      },
+      {
+        "id": "2106596661665599536",
+        "text": "Imagine you spend $108 per year \nThe app finally updated after 8 months\n\nTo just generate fake pixels\n\nSo they can still charge $108 a year\n\nlol https://t.co/y7dpZwxbwW",
+        "author": "screenkite_com",
+        "avatar": "https://pbs.twimg.com/profile_images/2091991379249610752/VFWy-wMI_normal.jpg",
+        "images": [
+          {
+            "alt": "原帖配图",
+            "url": "https://pbs.twimg.com/media/HTwif-pakAAfmvV.jpg",
+            "width": 1320,
+            "height": 1956
+          }
+        ],
+        "videos": [],
+        "category": "其他",
+        "createdAt": "2026-10-04T04:05:57.000Z",
+        "authorName": "ScreenKite",
+        "title": "ScreenKite 讨论录屏软件订阅价值",
+        "textZh": "ScreenKite 对录屏软件的订阅价值提出批评：用户每年支付 108 美元，等待八个月后得到一次更新，却认为更新主要是在生成模拟画面。以上是作者观点，具体指向及上下文请查看原帖。",
+        "insightZh": "这是来自同类产品方的竞争性评价，阅读时需要考虑立场。比较录屏工具时，更适合用实际画质、编辑效率、更新频率和总费用来判断，而不是只看宣传。"
+      }
+    ],
+    "label": "2026-10-04 每日精选",
+    "cadence": "daily",
+    "publishedAt": "2026-10-04T01:00:00.000Z",
+    "title": "视频创作、工作区代理与学习资源",
+    "description": "可灵活动预告、跨工具工作区与 AI 学习资源，7 条精选。"
+  },
+  {
+    "id": "2026-10-03-daily",
+    "items": [
+      {
+        "id": "2106090512210088361",
+        "text": "we're releasing an experimental @SpaceXAI typescript sdk!\n\nnpm install @xai-official/sdk\n\nget text, voice, image and video in one sdk, with the latest grok models\n\nand tools that run on our servers, like real-time X search, web search, code execution and remote mcp https://t.co/hiPfJDMmXe",
+        "author": "ericzakariasson",
+        "avatar": "https://pbs.twimg.com/profile_images/1841151626456801283/HnXqy3TQ_normal.jpg",
+        "images": [],
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2106090445843681280/vid/avc1/1440x1080/_2rTsoTRoQhhSdll.mp4?tag=16",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106090445843681280/img/-qYooELi6samhbzp.jpg"
+          }
+        ],
+        "category": "开发",
+        "createdAt": "2026-10-02T18:34:42.000Z",
+        "authorName": "eric zakariasson",
+        "title": "xAI 实验性 TypeScript SDK 发布",
+        "textZh": "作者宣布发布实验性的 xAI TypeScript SDK：npm install @xai-official/sdk。\n\n一个 SDK 可调用最新 Grok 模型处理文本、语音、图像和视频，还包含服务端运行的实时 X 搜索、网页搜索、代码执行和远程 MCP 工具。",
+        "insightZh": "统一 SDK 可以减少多模态产品的接入工作，服务端工具则让模型调用更接近完整任务流程。由于仍属实验版本，接入前需要验证接口稳定性、工具权限和费用。"
+      },
+      {
+        "id": "2106094197468205371",
+        "text": "Engineers at @RogoAI build the company's internal apps on Vercel. They deployed over 73,000 times last month.\n\nCoding agents ship to production in 5 minutes, and run everything from churn risk analysis to the sales team's deal desk.\n\nhttps://t.co/PO07A4nDc3",
+        "author": "vercel",
+        "avatar": "https://pbs.twimg.com/profile_images/1767351110228918272/3Pndc5OT_normal.png",
+        "images": [],
+        "videos": [],
+        "category": "产品",
+        "createdAt": "2026-10-02T18:49:20.000Z",
+        "authorName": "Vercel",
+        "title": "Rogo 用编码代理交付内部应用",
+        "textZh": "Vercel 分享 Rogo 的内部应用实践：工程师在 Vercel 上构建应用，上个月部署超过 73,000 次。编码代理可在五分钟内交付到生产，应用覆盖客户流失风险分析和销售交易支持。",
+        "insightZh": "部署次数说明迭代频率，却不能单独代表业务收益。这个案例更值得关注的是代理如何配合审查、回滚和数据权限，让内部工具快速交付也能可靠运行。"
+      },
+      {
+        "id": "2106066173917856070",
+        "text": "Our clinical trial participants have now used their Neuralink implants for over 50,000 hours, building one of the largest datasets of intracortical neural activity ever.\n\nWe used it to pretrain a foundation model for BCI: self-supervised neural encoders that turn noisy, drifting https://t.co/5rnWwAh0v8",
+        "author": "neuralink",
+        "avatar": "https://pbs.twimg.com/profile_images/1661856130535165953/zMoW6Sr1_normal.jpg",
+        "images": [
+          {
+            "alt": "原帖配图",
+            "url": "https://pbs.twimg.com/media/HTo_xUtW4AAQc5R.jpg",
+            "width": 4096,
+            "height": 2150
+          }
+        ],
+        "videos": [],
+        "category": "研究",
+        "createdAt": "2026-10-02T16:57:59.000Z",
+        "authorName": "Neuralink",
+        "title": "Neuralink 用植入数据预训练 BCI 模型",
+        "textZh": "Neuralink 表示，临床试验参与者使用植入设备已累计超过 50,000 小时，形成了规模较大的皮层内神经活动数据集。团队用这些数据预训练脑机接口基础模型，研究自监督神经编码器如何处理带噪声、会漂移的信号。\n\n原帖节选。",
+        "insightZh": "跨时间变化的神经信号，是脑机接口长期使用的重要挑战。预训练可能减少重复校准，但临床价值仍需看跨参与者泛化、长期稳定性和实际使用结果。"
+      },
+      {
+        "id": "2106080919954313434",
+        "text": "Features that bring design closer to CSS, so what you handoff is exactly what ships https://t.co/UVHGEjAeFS",
+        "author": "figma",
+        "avatar": "https://pbs.twimg.com/profile_images/2068849889753333760/YE3KJq___normal.jpg",
+        "images": [],
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2106060442099728388/vid/avc1/1920x1080/1DugREcXcv18TssX.mp4",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106060442099728388/img/DbcV9jFaaGIoprk6.jpg",
+            "localUrl": "assets/news-videos/b1e2db64a3cb0259.mp4"
+          }
+        ],
+        "category": "设计",
+        "createdAt": "2026-10-02T17:56:35.000Z",
+        "authorName": "Figma",
+        "title": "Figma 让设计交付更贴近 CSS",
+        "textZh": "这些功能让设计更贴近 CSS，让你交付的设计准确落地为最终产品。\n\nhttps://t.co/UVHGEjAeFS",
+        "insightZh": "设计规则更贴近 CSS，有机会减少开发时对布局意图的猜测。对设计师，明确自适应行为、间距与内容变化后的状态，仍比只交付一张静态画面更关键。"
+      },
+      {
+        "id": "2106168175838802186",
+        "text": "Start building on the X API with $70 in free credits! 🤑\n\nNew Pay-Per-Use accounts now get:\n• $20 when you add your first payment card\n• Your first auto-recharge matched, up to $50\n\nSee details here:\nhttps://t.co/GzqzLGRIjW",
+        "author": "XDevelopers",
+        "avatar": "https://pbs.twimg.com/profile_images/1683501992314798080/xl1POYLw_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "开发",
+        "createdAt": "2026-10-02T23:43:18.000Z",
+        "authorName": "Developers",
+        "title": "X API 推出新账户额度优惠",
+        "textZh": "X Developers 宣布，新的按用量付费账户可获得最高 70 美元的额度：首次添加支付卡获得 20 美元，首次自动充值可获得最高 50 美元的匹配额度。具体条件请查看原帖。",
+        "insightZh": "试用额度降低了接入门槛，但不改变持续采集的长期成本。使用前应确认活动资格、自动充值设置和支出上限，尤其是定时运行的数据任务。"
+      },
+      {
+        "id": "2106139101422567748",
+        "text": "Jev is now in the AI SDK for Python.\n\nTo test it, we ran two experiments:\n▪︎ Detecting Python vs. English as text is typed\n▪︎ Writing Python, one decision at a time\n\n𝚞𝚟 𝚊𝚍𝚍 𝚊𝚒\n\nhttps://t.co/fWPx6k3Gw3 https://t.co/eLaAvdzGdS",
+        "author": "vercel",
+        "avatar": "https://pbs.twimg.com/profile_images/1767351110228918272/3Pndc5OT_normal.png",
+        "images": [],
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2106139085492609025/vid/avc1/1920x1080/NBk2Tn7KQn-7YNFS.mp4?tag=16",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106139085492609025/img/s_YoRf-RFSWoXN3u.jpg",
+            "localUrl": "assets/news-videos/d62dc63910b07e60.mp4"
+          }
+        ],
+        "category": "开发",
+        "createdAt": "2026-10-02T21:47:46.000Z",
+        "authorName": "Vercel",
+        "title": "Jev 接入 Python AI SDK",
+        "textZh": "Jev 现已接入 Python 的 AI SDK。\n\n为了测试它，我们进行了两项实验：\n▪︎ 在输入文字时判断内容是 Python 还是英语\n▪︎ 逐步作出决策，编写 Python 代码\n\nuv add ai\n\nhttps://t.co/fWPx6k3Gw3\nhttps://t.co/eLaAvdzGdS",
+        "insightZh": "SDK 接入降低了尝试模型的门槛，但示例实验不代表生产任务已经可靠。实际接入前，值得检查流式响应、超时处理、调用成本和供应方限制是否符合产品需求。"
+      },
+      {
+        "id": "2106265491115540586",
+        "text": "Satya Nadela is basically describing the death of the traditional SaaS model.\n\nExplains the AI agentic future, and where the \"value\" lives.\n\nBecause business logic is moving from the software application to the AI agents.\n\nCurrently, you buy software for its specific features and https://t.co/CKru3hsl3E",
+        "author": "ai_explorer25",
+        "avatar": "https://pbs.twimg.com/profile_images/2105533042823659520/S5FX6rIU_normal.jpg",
+        "images": [],
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2106054333888622592/vid/avc1/1280x720/t43R5tv09R6L4G1X.mp4",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106054333888622592/img/aaUH8fJnY_EuD9_a.jpg"
+          }
+        ],
+        "category": "研究",
+        "createdAt": "2026-10-03T06:10:00.000Z",
+        "authorName": "AI_Explorer",
+        "title": "AI 代理会如何改变 SaaS 的价值",
+        "textZh": "作者解读 Satya Nadella 关于 AI 代理未来的观点：业务逻辑正从软件应用转向 AI 代理，传统 SaaS 的价值分布可能随之改变。\n\n原帖节选；“传统 SaaS 的终结”是作者的概括。",
+        "insightZh": "代理可以跨应用执行流程，但数据、权限和领域规则仍由底层系统提供。更合理的观察方向是价值如何重新分配，而不是据此断言 SaaS 会消失。"
+      },
+      {
+        "id": "2106210126688588038",
+        "text": "best founders list to follow on X:\n\n@levelsio\n → GOAT\n@marclou\n → SaaS\n@tibo_maker\n → Serial Entrepreneurship\n@jackfriks\n → Micro apps\n@athcanft\n → iOS apps\n@wickedguro\n → Distribution Maxxing\n@robj3d3\n → AI coding\n@illyism\n → SEO\n@ai_explorer25\n→ AI and Tech",
+        "author": "ai_explorer25",
+        "avatar": "https://pbs.twimg.com/profile_images/2105533042823659520/S5FX6rIU_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "开发",
+        "createdAt": "2026-10-03T02:30:00.000Z",
+        "authorName": "AI_Explorer",
+        "title": "独立开发者与创业者关注名单",
+        "textZh": "作者推荐关注这些 X 账号：@levelsio、@marclou、@tibo_maker、@jackfriks、@athcanft、@wickedguro、@robj3d3、@illyism 和 @ai_explorer25。领域覆盖 SaaS、连续创业、微型应用、iOS、分发、AI 编程、SEO 与科技。",
+        "insightZh": "这些账号能帮助了解小团队如何开发和销售产品，但经验往往带有个人背景。更适合提取可验证的做法，再结合自己的用户、渠道和资源做小规模试验。"
+      },
+      {
+        "id": "2106376224423723321",
+        "text": "Apple CEO Tim Cook says neither a degree nor coding skills get you hired at Apple :\n\n\"People that code, People that don't\" . Even though he calls coding \"the only global language that we all share.\"\n\n Instead, he screens for three traits: collaboration rooted in deep belief that https://t.co/DaHSSlL0pp",
+        "author": "ai_explorer25",
+        "avatar": "https://pbs.twimg.com/profile_images/2105533042823659520/S5FX6rIU_normal.jpg",
+        "images": [],
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2106352748812009472/vid/avc1/1280x720/38-8aEQRoKNIc_Bi.mp4",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106352748812009472/img/17IP44deCoaDP0l8.jpg"
+          }
+        ],
+        "category": "开发",
+        "createdAt": "2026-10-03T13:30:01.000Z",
+        "authorName": "AI_Explorer",
+        "title": "Tim Cook 招聘观点的二次解读",
+        "textZh": "作者引用 Tim Cook 关于招聘的说法：学历和是否会编程并非唯一标准，协作等特质同样重要；作者也提到 Cook 将编程称作共同的全球语言。\n\n原帖节选，完整引用与背景请查看原帖。",
+        "insightZh": "这是对公开发言的二次解读，不能直接当作所有岗位的招聘要求。对求职者而言，技术能力与协作能力通常需要共同展示，具体标准仍应以岗位说明为准。"
+      },
+      {
+        "id": "2106091153598947787",
+        "text": "Use the new TypeScript SDK for image, video, voice, and text AI https://t.co/vfAZNJLedU",
+        "author": "milichab",
+        "avatar": "https://pbs.twimg.com/profile_images/1466472908977487881/-dym5k04_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "开发",
+        "createdAt": "2026-10-02T18:37:14.000Z",
+        "authorName": "Andrew Milich",
+        "title": "xAI SDK 支持多模态调用",
+        "textZh": "作者推荐新的 TypeScript SDK，可用于图像、视频、语音和文本 AI。",
+        "insightZh": "这条帖子补充了新 SDK 的多模态定位，但没有提供独立的技术细节。开发者可以沿原帖查看示例，再验证流式输出、错误处理和各模态接口是否满足需求。"
+      },
+      {
+        "id": "2106051583012159998",
+        "text": "Build expressive voice agents with MAI models now in LiveKit. Learn more here: https://t.co/kiVoXeDOJN https://t.co/CkkNlYxWpH",
+        "author": "MicrosoftAI",
+        "avatar": "https://pbs.twimg.com/profile_images/1978536786759667712/6mqJjdOT_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "研究",
+        "createdAt": "2026-10-02T16:00:00.000Z",
+        "authorName": "Microsoft AI",
+        "title": "Microsoft MAI 模型接入 LiveKit",
+        "textZh": "Microsoft AI 表示，MAI 模型现已进入 LiveKit，可用于构建表达更丰富的语音代理。详情见原帖链接。",
+        "insightZh": "语音模型进入实时通信框架，能够缩短从模型到可交互产品的距离。实际体验仍要同时测量转写延迟、打断处理、音色表现和网络波动下的稳定性。"
+      },
+      {
+        "id": "2106058436651991323",
+        "text": "👋 https://t.co/uRHU0bDWK2",
+        "author": "robotaxi",
+        "avatar": "https://pbs.twimg.com/profile_images/1936878903693381632/kknBJFib_normal.jpg",
+        "images": [
+          {
+            "alt": "原帖配图",
+            "url": "https://pbs.twimg.com/media/HTo4QHoa4AAvv1C.jpg",
+            "width": 2731,
+            "height": 4096
+          }
+        ],
+        "videos": [],
+        "category": "其他",
+        "createdAt": "2026-10-02T16:27:14.000Z",
+        "authorName": "Robotaxi",
+        "title": "Robotaxi 分享动态",
+        "textZh": "Robotaxi 发布了一则挥手表情与链接，当前采集结果没有更多文字说明。请查看原帖中的媒体内容。",
+        "insightZh": "这类媒体帖可以展示场景，却不足以独立确认功能变化或服务范围。应与明确的产品公告、运营信息一起阅读，避免从画面推断尚未公布的能力。"
+      },
+      {
+        "id": "2106230772051157467",
+        "text": "Robotaxi in Austin now available until 11pm",
+        "author": "robotaxi",
+        "avatar": "https://pbs.twimg.com/profile_images/1936878903693381632/kknBJFib_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "其他",
+        "createdAt": "2026-10-03T03:52:02.000Z",
+        "authorName": "Robotaxi",
+        "title": "奥斯汀 Robotaxi 服务延长至晚 11 点",
+        "textZh": "Robotaxi 宣布，奥斯汀的服务现可使用至晚上 11 点。",
+        "insightZh": "延长运营时间扩大了夜间使用场景，也对接送、安全和异常处理提出更多要求。该消息只说明时间变化，具体服务区域和乘坐条件仍需查看官方说明。"
+      },
+      {
+        "id": "2106119299484221762",
+        "text": "\"You should know\" is a great way of staying on top of what's possible with Claude and also a great example of the kind of things mods enable.\n\nYou can really make Claude Code yours. https://t.co/En0OhotxQL",
+        "author": "trq212",
+        "avatar": "https://pbs.twimg.com/profile_images/1976939058741039104/r3GgzqRh_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "其他",
+        "createdAt": "2026-10-02T20:29:05.000Z",
+        "authorName": "Thariq",
+        "title": "用扩展让 Claude Code 更贴合个人工作",
+        "textZh": "Claude Code 开发者推荐“You should know”，认为它能帮助了解 Claude 可以做什么，也展示了扩展可以实现的体验：让 Claude Code 更符合个人需求。",
+        "insightZh": "工具的价值不只在模型能力，也在用户能否把它接入日常流程。扩展值得尝试，但应同时检查它读取什么信息、执行哪些操作，以及与现有工作方式是否冲突。"
+      },
+      {
+        "id": "2106083592522932320",
+        "text": "Finances in ChatGPT is rolling out to Free and Go users in the U.S.\n\nSecurely connect your accounts with @Plaid and @Experian to make sense of your money and credit, with answers based on your own financial information. https://t.co/I0drGHpkoQ",
+        "author": "ChatGPT",
+        "avatar": "https://pbs.twimg.com/profile_images/2081980424666935296/qU5G7mQg_normal.jpg",
+        "images": [],
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2106052340415447040/vid/avc1/1920x1080/RUSxCgOFJqSPwG9c.mp4",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106052340415447040/img/WFIpIjD1vWKEoUmn.jpg"
+          }
+        ],
+        "category": "其他",
+        "createdAt": "2026-10-02T18:07:12.000Z",
+        "authorName": "ChatGPT",
+        "title": "ChatGPT 财务功能面向美国 Free 与 Go 用户推出",
+        "textZh": "ChatGPT 宣布，财务功能正向美国的 Free 和 Go 用户推出。用户可通过 Plaid 和 Experian 连接账户，基于自己的财务信息获得关于资金和信用的回答。",
+        "insightZh": "把个人数据接入对话，可能让财务解释更贴近实际情况。评估时应重点了解授权范围、数据更新频率和撤销连接的方式；模型回答仍需要用户核对关键数字。"
+      }
+    ],
+    "label": "2026-10-03 每日精选",
+    "cadence": "daily",
+    "publishedAt": "2026-10-03T01:00:00.000Z",
+    "title": "多模态 SDK、脑机接口与代理应用",
+    "description": "xAI SDK、Neuralink、ChatGPT 与设计开发流程，15 条精选。"
+  },
+  {
+    "id": "2026-10-02-daily",
+    "items": [
+      {
+        "id": "2105693024013467905",
+        "text": "Introducing 3 new models: MAI-Transcribe-2-Streaming, MAI-Voice-2.1 and MAI-Voice-2.1-Flash.\n\nAccurate streaming transcription. Natural speech and less waiting between turns.\n\nBuild voice agents that keep the conversation moving! https://t.co/QB6Yr9UiyK",
+        "author": "MicrosoftAI",
+        "avatar": "https://pbs.twimg.com/profile_images/1978536786759667712/6mqJjdOT_normal.jpg",
+        "images": [],
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2105692973694349312/vid/avc1/1920x1080/8DHi90mpbvis2fT4.mp4?tag=16",
+            "poster": "https://pbs.twimg.com/media/HTjspUrXcAAGhI8.png"
+          }
+        ],
+        "category": "产品",
+        "createdAt": "2026-10-01T16:15:13.000Z",
+        "authorName": "Microsoft AI",
+        "title": "微软发布三款实时语音模型",
+        "textZh": "Microsoft AI 发布 MAI-Transcribe-2-Streaming、MAI-Voice-2.1 和 MAI-Voice-2.1-Flash，主打准确的流式转写、自然语音和更短的轮次等待，可用于构建连续对话的语音代理。",
+        "insightZh": "语音代理的体验由转写、推理和合成共同决定，单个模型更快并不一定带来更快的完整对话。值得使用真实噪声、多人说话和打断场景评估整体表现。"
+      },
+      {
+        "id": "2106034221005312448",
+        "text": "The same model, with the same weights, scores 62% in one agent harness and 33% in another.\n\n@adithya_s_k and the @huggingface team just released the ultimate guide to multi-harness RL, and it's one of the most practical RL write-ups this year, and everything open!\n\nThe trick is https://t.co/RqFSWyTN16",
+        "author": "huggingface",
+        "avatar": "https://pbs.twimg.com/profile_images/1991559933473497089/mbrRS49P_normal.jpg",
+        "images": [
+          {
+            "alt": "原帖配图",
+            "url": "https://pbs.twimg.com/media/HToib44XsAA-VYJ.jpg",
+            "width": 1746,
+            "height": 994
+          }
+        ],
+        "videos": [],
+        "category": "产品",
+        "createdAt": "2026-10-02T14:51:01.000Z",
+        "authorName": "Hugging Face",
+        "title": "同一模型，为何在不同代理框架中得分悬殊",
+        "textZh": "同一个模型、同一组权重，在一个代理运行框架中得分为 62%，在另一个中却只有 33%。\n\n@adithya_s_k 和 @huggingface 团队刚刚发布了多框架强化学习的完整指南。这是今年最实用的强化学习文章之一，而且所有内容都已开放！\n\n其中的诀窍是……\n\n原帖文字末尾未完整采集。\n\nhttps://t.co/RqFSWyTN16",
+        "insightZh": "相同模型在不同框架下出现明显差异，提醒我们要把工具、上下文管理和执行反馈一起评估。原帖中的两个得分来自特定实验，不能直接当成所有框架的优劣排名。"
+      },
+      {
+        "id": "2105709365328228857",
+        "text": "In September, we shipped three tools for builders.\n\nAn open-source real-time avatar stack with OpenAI's GPT-Live-1\n\nThe Code2Video Benchmark with Kaggle, measuring if AI-made video is actually well made\n\nAnd a Professional Voice Clone for API\n\nRead More: https://t.co/HyTAy64kdC https://t.co/wN8q7jqIzp",
+        "author": "HeyGen",
+        "avatar": "https://pbs.twimg.com/profile_images/2080749613934682112/RGAD73oR_normal.jpg",
+        "images": [],
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2105706618663145472/vid/avc1/1920x1080/qvJyhVMAsXKluCfF.mp4",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105706618663145472/img/30VHt1QL-TreJcfD.jpg"
+          }
+        ],
+        "category": "开发",
+        "createdAt": "2026-10-01T17:20:09.000Z",
+        "authorName": "HeyGen",
+        "title": "HeyGen 回顾三项开发者工具",
+        "textZh": "HeyGen 回顾九月推出的三项工具：结合 OpenAI GPT-Live-1 的开源实时数字人技术栈；与 Kaggle 合作、评估 AI 视频制作质量的 Code2Video Benchmark；以及面向 API 的专业声音克隆。",
+        "insightZh": "工具、评测和接口同时发布，说明数字人产品正向可集成的基础设施发展。评估时应区分演示效果与生产表现，并核实声音授权、实时延迟和评测覆盖范围。"
+      },
+      {
+        "id": "2105817662651777367",
+        "text": "I remember the first meeting where the team pitched the idea of putting compute in space - exciting idea!\n\nToday's successful launch with our partner @planet prototype satellite shows how far we've come...and how far there is to go. Thanks for the lift, @SpaceX, another https://t.co/Gh3qdoLPe6",
+        "author": "sundarpichai",
+        "avatar": "https://pbs.twimg.com/profile_images/2051799620062429184/AL8CoAUG_normal.jpg",
+        "images": [],
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2105817306001817600/vid/avc1/1080x1920/iEY7u2FwaNhlfXGJ.mp4",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105817306001817600/img/RhvftOJvzULHalfv.jpg"
+          }
+        ],
+        "category": "产品",
+        "createdAt": "2026-10-02T00:30:29.000Z",
+        "authorName": "Sundar Pichai",
+        "title": "Google 探索太空计算原型",
+        "textZh": "Sundar Pichai 回忆团队最初提出将计算能力放到太空的讨论，并表示与 Planet 合作的原型卫星已成功发射，感谢 SpaceX。\n\n原帖节选，项目详情请查看原帖。",
+        "insightZh": "原型发射代表工程验证迈出一步，并不意味着太空计算已具备商业规模。能源、通信、维护与成本，都是从概念走向实用需要继续验证的问题。"
+      },
+      {
+        "id": "2105711809193968027",
+        "text": "What if every student had the superpower of a personal tutor?\n\nNew research shows AI delivers immediate GRE learning gains equivalent to expert humans, with Gemma 4 31B leading the way. It serves as a valuable resource to assist educators, helping experts scale their impact and https://t.co/hFn1wmV6k4",
+        "author": "googlegemma",
+        "avatar": "https://pbs.twimg.com/profile_images/2038662245631320064/uWfEb6yw_normal.png",
+        "images": [],
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2105710080234823680/vid/avc1/1920x1080/JRU88tUVMrVDU8Q6.mp4",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105710080234823680/img/-j3BPJe1eZ0hvEf7.jpg"
+          }
+        ],
+        "category": "研究",
+        "createdAt": "2026-10-01T17:29:52.000Z",
+        "authorName": "Google Gemma",
+        "title": "Gemma 分享 AI 辅导学习研究",
+        "textZh": "Gemma 账号介绍一项研究：在 GRE 学习任务中，AI 带来的即时提升可与专家辅导相比，Gemma 4 31B 表现突出。作者将其视为帮助教育工作者扩大影响的资源。\n\n原帖节选。",
+        "insightZh": "即时测试提升与长期掌握知识是不同的指标。要判断辅导工具是否真正有用，还需要了解样本、对照方式、学习保持程度和学生对答案的依赖。"
+      },
+      {
+        "id": "2105733977147617750",
+        "text": "Jev is a huge power-up for research agents!\n\n@edwardirby built a @youdotcom agent that monitors business risks, and compared Jev to an ordinary LLM judge.\n\n• Same report quality\n• But the LLM flip-flopped: 0.35 -&gt; 0.68 -&gt; 0.50 on the same threat\n• the LLM missed 5 of 11 https://t.co/j0pfdMs1HF",
+        "author": "typesafeai",
+        "avatar": "https://pbs.twimg.com/profile_images/2100293691227447296/bVoZ2u00_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "研究",
+        "createdAt": "2026-10-01T18:57:57.000Z",
+        "authorName": "TypeSafe AI",
+        "title": "研究代理评估：关注判断的一致性",
+        "textZh": "Typesafe AI 分享一项业务风险监测代理对比：Edward Irby 比较 Jev 与普通 LLM 裁判，表示报告质量相近，但普通 LLM 对同一威胁的评分在 0.35、0.68 和 0.50 之间波动，并漏掉了部分风险。\n\n原帖节选，完整方法请查看原帖。",
+        "insightZh": "风险分析需要稳定且可解释的判断，重复评分波动会影响优先级。这个案例提示团队不仅要评估文字质量，也要测量重复性、漏报率和人工复核成本。"
+      },
+      {
+        "id": "2105708071972393177",
+        "text": "More ways to discover, access, and build with MAI models.\n\nMAI models are now available through Vercel, giving developers another way to bring Microsoft AI models into the products and experiences they’re building.\n\nThis includes our existing MAI models plus today’s newest https://t.co/EGqLtCl0O5",
+        "author": "MicrosoftAI",
+        "avatar": "https://pbs.twimg.com/profile_images/1978536786759667712/6mqJjdOT_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "产品",
+        "createdAt": "2026-10-01T17:15:01.000Z",
+        "authorName": "Microsoft AI",
+        "title": "微软 MAI 模型可通过 Vercel 接入",
+        "textZh": "Microsoft AI 表示，MAI 模型现可通过 Vercel 使用，为开发者提供另一种将模型接入产品和体验的方式，涵盖已有模型及当日的新模型。\n\n原帖节选。",
+        "insightZh": "模型分发渠道增多，有助于团队沿用已有的部署和调用流程。选择入口时应比较价格、可用地区、日志和数据处理规则，而不仅是 SDK 使用是否方便。"
+      },
+      {
+        "id": "2105692801887551652",
+        "text": "You already know: Codex for coding, Claude for design, Chinese models for small tasks.\nBut who checks the voice model's work?\nThat's where @OnepinAI comes in: every line checked for clarity and pronunciation, and the wrong words fixed directly. https://t.co/P5zugjpWMb",
+        "author": "ai_explorer25",
+        "avatar": "https://pbs.twimg.com/profile_images/2105533042823659520/S5FX6rIU_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "设计",
+        "createdAt": "2026-10-01T16:14:20.000Z",
+        "authorName": "AI_Explorer",
+        "title": "Onepin AI 检查语音内容的清晰度",
+        "textZh": "作者介绍 Onepin AI：它会检查语音内容中每一行的清晰度与发音，并直接修正错误词语。作者将其视为语音模型输出后的质量检查环节。",
+        "insightZh": "生成之后的质量控制，是语音产品落地的重要环节。自动检查能减少手工工作，但仍需用专有名词、多语言和具体使用场景验证误改率。"
+      },
+      {
+        "id": "2105862042238451775",
+        "text": "Congratulations for Screen Studio for launching the best product of 2025, 2024, 2023!\n\nIf you want 100x better also AI-native Screen Studio in 2026, ScreenKite is always ready for you and with one-time purchase! https://t.co/5R2BCpS9A9",
+        "author": "screenkite_com",
+        "avatar": "https://pbs.twimg.com/profile_images/2091991379249610752/VFWy-wMI_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "产品",
+        "createdAt": "2026-10-02T03:26:50.000Z",
+        "authorName": "ScreenKite",
+        "title": "ScreenKite 主打 AI 原生与一次性购买",
+        "textZh": "ScreenKite 祝贺 Screen Studio 的产品成绩，并宣传自己的 AI 原生录屏工具及一次性购买方式。原帖中“好 100 倍”等描述属于营销表达。",
+        "insightZh": "一次性购买可以降低长期订阅压力，但不直接代表体验更好。比较时应围绕自己的录制场景，实际测试清晰度、自动缩放、编辑效率和后续更新政策。"
+      },
+      {
+        "id": "2105819303471976479",
+        "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for https://t.co/uMFWTcBCsl",
+        "author": "karpathy",
+        "avatar": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+        "images": [
+          {
+            "alt": "原帖配图",
+            "url": "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png",
+            "width": 3200,
+            "height": 1600
+          }
+        ],
+        "videos": [],
+        "category": "研究",
+        "createdAt": "2026-10-02T00:37:00.000Z",
+        "authorName": "Andrej Karpathy",
+        "title": "Karpathy：让模型用受控语言解释",
+        "textZh": "Karpathy 认为，我们会花更多时间理解语言模型的输出。他分享一个写作技巧：要求模型用 ASD-STE100 解释内容，这是一套最初用于特定技术场景的受控语言规范。\n\n原帖节选。",
+        "insightZh": "约束词汇和句式，可以减少长篇解释中的歧义，提高技术内容的可读性。它是一种值得试验的提示方法，但使用简化语言后，仍要确认关键条件和细节没有丢失。"
+      },
+      {
+        "id": "2105909609487872075",
+        "text": "Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet. https://t.co/jTTAhBsMfu",
+        "author": "karpathy",
+        "avatar": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "研究",
+        "createdAt": "2026-10-02T06:35:51.000Z",
+        "authorName": "Andrej Karpathy",
+        "title": "用经纬度测试模型的地理知识",
+        "textZh": "Karpathy 分享一个评测：只给语言模型一对经纬度坐标，询问“陆地还是海洋？”，重复 16,200 次并绘图。他认为结果展示了模型从互联网中学习到的地理信息。",
+        "insightZh": "这个任务把模型内部知识变成可观察的地图，具有直观的诊断价值。但它不等于可靠的地理查询服务，边界、孤岛和精确坐标仍可能出错。"
+      },
+      {
+        "id": "2105739760157540690",
+        "text": "Cybercab's Megalamp is designed to ensure you always find your ride https://t.co/ee4D9QKy6N",
+        "author": "robotaxi",
+        "avatar": "https://pbs.twimg.com/profile_images/1936878903693381632/kknBJFib_normal.jpg",
+        "images": [],
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2105739496797130752/vid/avc1/4096x2160/xZ9FOCj6PJNLm7Gj.mp4",
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105739496797130752/img/1w3VXojcnSB__RnD.jpg"
+          }
+        ],
+        "category": "设计",
+        "createdAt": "2026-10-01T19:20:56.000Z",
+        "authorName": "Robotaxi",
+        "title": "Cybercab 通过 Megalamp 帮助识别车辆",
+        "textZh": "Robotaxi 表示，Cybercab 的 Megalamp 设计用于帮助乘客找到自己的车辆。",
+        "insightZh": "无人接送场景需要明确的车辆识别线索，灯光可以减少寻找车辆的摩擦。还应结合夜间可见性、多人同时候车和无障碍需求评估设计效果。"
+      },
+      {
+        "id": "2105787358557999585",
+        "text": "GLM 5.3 and GLM 5.3 Flash are now available in Cursor!\n\nGLM 5.3 Max is the best-scoring open-weight model on CursorBench 4.0. https://t.co/fEelJWzeZY",
+        "author": "cursor_ai",
+        "avatar": "https://pbs.twimg.com/profile_images/1970182748146180096/dhZeXi_X_normal.jpg",
+        "images": [
+          {
+            "alt": "原帖配图",
+            "url": "https://pbs.twimg.com/media/HTlCcaGbcAAj6lI.png",
+            "width": 1908,
+            "height": 1292
+          }
+        ],
+        "videos": [],
+        "category": "研究",
+        "createdAt": "2026-10-01T22:30:04.000Z",
+        "authorName": "Cursor",
+        "title": "Cursor 接入 GLM 5.3 系列模型",
+        "textZh": "Cursor 宣布 GLM 5.3 与 GLM 5.3 Flash 已可使用，并表示 GLM 5.3 Max 是 CursorBench 4.0 上得分最高的开放权重模型。",
+        "insightZh": "新增模型让开发者能在质量、速度和成本之间做更多选择。基准排名只是参考，是否适合自己的代码库，还应通过真实修改任务和测试通过率来判断。"
+      },
+      {
+        "id": "2105828136428691774",
+        "text": "In a busy week, SynthID Bio, our watermarking tech for AI-designed proteins, was a big big step forward for scientific integrity and biosecurity! Congrats to the team @GoogleDeepMind https://t.co/IrCue2hxdK",
+        "author": "sundarpichai",
+        "avatar": "https://pbs.twimg.com/profile_images/2051799620062429184/AL8CoAUG_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "设计",
+        "createdAt": "2026-10-02T01:12:06.000Z",
+        "authorName": "Sundar Pichai",
+        "title": "SynthID Bio 为 AI 设计蛋白质加入水印",
+        "textZh": "Sundar Pichai 提到，Google DeepMind 的 SynthID Bio 是面向 AI 设计蛋白质的水印技术，并将其视为科学诚信与生物安全的一步进展。",
+        "insightZh": "来源标识有助于区分生成内容与其他研究结果，但水印能否稳定识别、抵抗修改和融入实验流程仍很关键。技术标识需要与研究记录和使用规范配合。"
+      },
+      {
+        "id": "2105751275480752344",
+        "text": "I usually write for developers but I'm aiming my next post at leaders of companies trying to navigate the change of AI coding agents\n\nwhat's something you wish your leadership would get about agents? or if you're running a company- what problems are you running into?",
+        "author": "trq212",
+        "avatar": "https://pbs.twimg.com/profile_images/1976939058741039104/r3GgzqRh_normal.jpg",
+        "images": [],
+        "videos": [],
+        "category": "开发",
+        "createdAt": "2026-10-01T20:06:41.000Z",
+        "authorName": "Thariq",
+        "title": "Claude Code 开发者征集企业采用代理的问题",
+        "textZh": "Claude Code 开发者表示，下一篇文章将面向正在应对 AI 编码代理变化的企业领导者。他询问开发者希望管理层理解什么，以及企业负责人遇到了哪些问题。",
+        "insightZh": "编码代理的采用正在从个人效率问题变成组织流程问题。管理层需要理解的，通常包括质量责任、权限、代码审查与收益衡量；这条征集帖尚未提供最终答案。"
+      }
+    ],
+    "label": "2026-10-02 每日精选",
+    "cadence": "daily",
+    "publishedAt": "2026-10-02T01:00:00.000Z",
+    "title": "语音模型、开发工具与 AI 产品实践",
+    "description": "微软实时语音、HeyGen、Cursor 与模型评测，15 条精选。"
   }
 ]
