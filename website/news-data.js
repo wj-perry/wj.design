@@ -11,7 +11,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2107145430727593990/vid/avc1/1920x1080/VtliHLOhYpOYK_kw.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2107145430727593990/img/se120aGIKzuOZwrF.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2107145430727593990/img/se120aGIKzuOZwrF.jpg",
+            "localUrl": "assets/news-videos/b8c6d3ad4a3a76ce.mp4"
           }
         ],
         "category": "产品",
@@ -31,7 +32,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2107161552478740480/vid/avc1/1310x1080/mttgxJGJ8b_LT9qf.mp4?tag=16",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2107161552478740480/img/odaG3KmPRTb5bFc_.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2107161552478740480/img/odaG3KmPRTb5bFc_.jpg",
+            "localUrl": "assets/news-videos/429393d608da58ef.mp4"
           }
         ],
         "category": "产品",
@@ -88,7 +90,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2107140983238664192/vid/avc1/1920x1080/iklCY9iMje6jt9NA.mp4?tag=16",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2107140983238664192/img/dFp4dVG_35ypZOWO.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2107140983238664192/img/dFp4dVG_35ypZOWO.jpg",
+            "localUrl": "assets/news-videos/2d5a25fc42acf27d.mp4"
           }
         ],
         "category": "开发",
@@ -123,7 +126,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2107174169490472960/vid/avc1/1920x1080/mP0FGVywXbKYX1jf.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2107174169490472960/img/obRLC6Eu5qtx9oMu.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2107174169490472960/img/obRLC6Eu5qtx9oMu.jpg",
+            "localUrl": "assets/news-videos/8b4b85dd6538f62f.mp4"
           }
         ],
         "category": "设计",
@@ -173,7 +177,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2107190712819478528/vid/avc1/2456x1508/Z9oP5h3b6Si4JJSh.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2107190712819478528/img/uRUNrBppYBlJb6eh.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2107190712819478528/img/uRUNrBppYBlJb6eh.jpg",
+            "localUrl": "assets/news-videos/b198e3665c1e84d2.mp4"
           }
         ],
         "category": "其他",
@@ -207,7 +212,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104650907795476482/vid/avc1/1920x1080/8flx2R9lyGXG0ccl.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104650907795476482/img/0Sz8vOcJnOmrkG47.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104650907795476482/img/0Sz8vOcJnOmrkG47.jpg",
+            "localUrl": "assets/news-videos/9695f654c78b9fc6.mp4"
           }
         ],
         "authorName": "OpenAI",
@@ -247,7 +253,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104984413113393152/vid/avc1/1920x1080/9gGn_oekezTJaPRZ.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104984413113393152/img/ww-kV51l6J5DwxZJ.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104984413113393152/img/ww-kV51l6J5DwxZJ.jpg",
+            "localUrl": "assets/news-videos/25a166fb2a1f9a9a.mp4"
           }
         ],
         "authorName": "OpenAI",
@@ -266,7 +273,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104984622191067137/vid/avc1/1920x1080/XqwxcETJ-aUHrd3Q.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104984622191067137/img/6xK8vFcs_vBe4SKN.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104984622191067137/img/6xK8vFcs_vBe4SKN.jpg",
+            "localUrl": "assets/news-videos/718bff6c66688b8e.mp4"
           }
         ],
         "authorName": "OpenAI",
@@ -285,7 +293,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104979273312583680/vid/avc1/1920x1080/vbvkgmNi7bZAstnb.mp4",
-            "poster": "https://pbs.twimg.com/media/HTZls2TbAAA5hj1.jpg"
+            "poster": "https://pbs.twimg.com/media/HTZls2TbAAA5hj1.jpg",
+            "localUrl": "assets/news-videos/63fca9fd28f91c0f.mp4"
           }
         ],
         "authorName": "OpenAI",
@@ -304,7 +313,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104934151245996034/vid/avc1/1920x1080/UNOWK0BrwlKKvSE5.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104934151245996034/img/zEwcejRdC74PaD4t.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104934151245996034/img/zEwcejRdC74PaD4t.jpg",
+            "localUrl": "assets/news-videos/c581669bf92d6189.mp4"
           }
         ],
         "authorName": "OpenAI",
@@ -337,7 +347,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104993936112779264/vid/avc1/1920x1080/b-lrt-VyRDdcfdQC.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104993936112779264/img/lmUTqfZ4cb7RxKfp.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104993936112779264/img/lmUTqfZ4cb7RxKfp.jpg",
+            "localUrl": "assets/news-videos/c7c78748dc692488.mp4"
           }
         ],
         "authorName": "OpenAI",
@@ -356,7 +367,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104987159128403968/vid/avc1/1366x768/LDhuEpsKnIhjlh-G.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104987159128403968/img/RriM_KZQz2BN_w4s.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104987159128403968/img/RriM_KZQz2BN_w4s.jpg",
+            "localUrl": "assets/news-videos/df47f491235ea3f0.mp4"
           }
         ],
         "authorName": "OpenAI",
@@ -417,7 +429,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104993904491913216/vid/avc1/3840x2160/X59wzvXayQxpnvIs.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104993904491913216/img/KG7bXyR8OzRt4FiD.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104993904491913216/img/KG7bXyR8OzRt4FiD.jpg",
+            "localUrl": "assets/news-videos/09b5d9e9e34feaaa.mp4"
           }
         ],
         "authorName": "Figma",
@@ -492,7 +505,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104631671999832064/vid/avc1/1920x1080/Uh3ybCqyzrY6O2Te.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104631671999832064/img/2WsSOtoZdVD39X2_.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104631671999832064/img/2WsSOtoZdVD39X2_.jpg",
+            "localUrl": "assets/news-videos/9c41badc02f83cd2.mp4"
           }
         ],
         "authorName": "Figma",
@@ -528,7 +542,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2105333122661580800/vid/avc1/1920x1080/cbTuyKO_qK-uOWqo.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105333122661580800/img/IUMHwFOZbChjGRYg.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105333122661580800/img/IUMHwFOZbChjGRYg.jpg",
+            "localUrl": "assets/news-videos/d57688331bf2f7bd.mp4"
           }
         ],
         "category": "设计",
@@ -547,7 +562,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2105326052897927168/vid/avc1/1920x1080/epuMtygxpRQuXTwf.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105326052897927168/img/sIJQk0a7Yj5Vaz-K.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105326052897927168/img/sIJQk0a7Yj5Vaz-K.jpg",
+            "localUrl": "assets/news-videos/3fb08a8ccc85639f.mp4"
           }
         ],
         "category": "设计",
@@ -580,7 +596,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2105624129139363840/vid/avc1/1080x1080/347JUG6jGDzztqAS.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105624129139363840/img/aR-gb8NNMpiFdpln.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105624129139363840/img/aR-gb8NNMpiFdpln.jpg",
+            "localUrl": "assets/news-videos/b2a49d6fe17f8b81.mp4"
           }
         ],
         "category": "设计",
@@ -618,7 +635,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2106060442099728388/vid/avc1/1920x1080/1DugREcXcv18TssX.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106060442099728388/img/DbcV9jFaaGIoprk6.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106060442099728388/img/DbcV9jFaaGIoprk6.jpg",
+            "localUrl": "assets/news-videos/b1e2db64a3cb0259.mp4"
           }
         ],
         "category": "设计",
@@ -637,7 +655,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2105696017765314560/vid/avc1/1920x1080/uvaC0W5LPwlz3UMg.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105696017765314560/img/980RX18UQtcM2nls.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105696017765314560/img/980RX18UQtcM2nls.jpg",
+            "localUrl": "assets/news-videos/e048b62267cb3cae.mp4"
           }
         ],
         "category": "其他",
@@ -681,7 +700,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104648487820214272/vid/avc1/1080x1080/_Nn8JzTbr9-Uy_SJ.mp4",
-            "poster": "https://pbs.twimg.com/media/HTU2x2yXkAAuejA.jpg"
+            "poster": "https://pbs.twimg.com/media/HTU2x2yXkAAuejA.jpg",
+            "localUrl": "assets/news-videos/4b52d376fe27316d.mp4"
           }
         ],
         "authorName": "Vercel",
@@ -696,7 +716,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2106139085492609025/vid/avc1/1920x1080/NBk2Tn7KQn-7YNFS.mp4?tag=16",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106139085492609025/img/s_YoRf-RFSWoXN3u.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106139085492609025/img/s_YoRf-RFSWoXN3u.jpg",
+            "localUrl": "assets/news-videos/d62dc63910b07e60.mp4"
           }
         ],
         "category": "开发",
@@ -736,7 +757,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/tweet_video/HTjjwNwXwAAnPzC.mp4",
-            "poster": "https://pbs.twimg.com/tweet_video_thumb/HTjjwNwXwAAnPzC.jpg"
+            "poster": "https://pbs.twimg.com/tweet_video_thumb/HTjjwNwXwAAnPzC.jpg",
+            "localUrl": "assets/news-videos/55dace83e4b13399.mp4"
           }
         ],
         "category": "其他",
@@ -902,7 +924,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2106090445843681280/vid/avc1/1440x1080/_2rTsoTRoQhhSdll.mp4?tag=16",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106090445843681280/img/-qYooELi6samhbzp.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106090445843681280/img/-qYooELi6samhbzp.jpg",
+            "localUrl": "assets/news-videos/1a9c50ac6243559f.mp4"
           }
         ],
         "category": "开发",
@@ -956,7 +979,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2106060442099728388/vid/avc1/1920x1080/1DugREcXcv18TssX.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106060442099728388/img/DbcV9jFaaGIoprk6.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106060442099728388/img/DbcV9jFaaGIoprk6.jpg",
+            "localUrl": "assets/news-videos/b1e2db64a3cb0259.mp4"
           }
         ],
         "category": "设计",
@@ -989,7 +1013,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2106139085492609025/vid/avc1/1920x1080/NBk2Tn7KQn-7YNFS.mp4?tag=16",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106139085492609025/img/s_YoRf-RFSWoXN3u.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106139085492609025/img/s_YoRf-RFSWoXN3u.jpg",
+            "localUrl": "assets/news-videos/d62dc63910b07e60.mp4"
           }
         ],
         "category": "开发",
@@ -1008,7 +1033,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2106054333888622592/vid/avc1/1280x720/t43R5tv09R6L4G1X.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106054333888622592/img/aaUH8fJnY_EuD9_a.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106054333888622592/img/aaUH8fJnY_EuD9_a.jpg",
+            "localUrl": "assets/news-videos/6dcaa79c3291fa70.mp4"
           }
         ],
         "category": "研究",
@@ -1041,7 +1067,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2106352748812009472/vid/avc1/1280x720/38-8aEQRoKNIc_Bi.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106352748812009472/img/17IP44deCoaDP0l8.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106352748812009472/img/17IP44deCoaDP0l8.jpg",
+            "localUrl": "assets/news-videos/c7d6697bef9d6806.mp4"
           }
         ],
         "category": "开发",
@@ -1137,7 +1164,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2106052340415447040/vid/avc1/1920x1080/RUSxCgOFJqSPwG9c.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106052340415447040/img/WFIpIjD1vWKEoUmn.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2106052340415447040/img/WFIpIjD1vWKEoUmn.jpg",
+            "localUrl": "assets/news-videos/72376a7ee8c5a71f.mp4"
           }
         ],
         "category": "其他",
@@ -1166,7 +1194,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2105692973694349312/vid/avc1/1920x1080/8DHi90mpbvis2fT4.mp4?tag=16",
-            "poster": "https://pbs.twimg.com/media/HTjspUrXcAAGhI8.png"
+            "poster": "https://pbs.twimg.com/media/HTjspUrXcAAGhI8.png",
+            "localUrl": "assets/news-videos/621f5cfd0a033b88.mp4"
           }
         ],
         "category": "产品",
@@ -1206,7 +1235,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2105706618663145472/vid/avc1/1920x1080/qvJyhVMAsXKluCfF.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105706618663145472/img/30VHt1QL-TreJcfD.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105706618663145472/img/30VHt1QL-TreJcfD.jpg",
+            "localUrl": "assets/news-videos/13c481b62bea060f.mp4"
           }
         ],
         "category": "开发",
@@ -1225,7 +1255,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2105817306001817600/vid/avc1/1080x1920/iEY7u2FwaNhlfXGJ.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105817306001817600/img/RhvftOJvzULHalfv.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105817306001817600/img/RhvftOJvzULHalfv.jpg",
+            "localUrl": "assets/news-videos/464b8f6b76686a49.mp4"
           }
         ],
         "category": "产品",
@@ -1244,7 +1275,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2105710080234823680/vid/avc1/1920x1080/JRU88tUVMrVDU8Q6.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105710080234823680/img/-j3BPJe1eZ0hvEf7.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105710080234823680/img/-j3BPJe1eZ0hvEf7.jpg",
+            "localUrl": "assets/news-videos/361c9968de170272.mp4"
           }
         ],
         "category": "研究",
@@ -1354,7 +1386,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2105739496797130752/vid/avc1/4096x2160/xZ9FOCj6PJNLm7Gj.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105739496797130752/img/1w3VXojcnSB__RnD.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2105739496797130752/img/1w3VXojcnSB__RnD.jpg",
+            "localUrl": "assets/news-videos/59d7f6d625cb7d40.mp4"
           }
         ],
         "category": "设计",
@@ -1435,7 +1468,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104650907795476482/vid/avc1/1920x1080/8flx2R9lyGXG0ccl.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104650907795476482/img/0Sz8vOcJnOmrkG47.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104650907795476482/img/0Sz8vOcJnOmrkG47.jpg",
+            "localUrl": "assets/news-videos/9695f654c78b9fc6.mp4"
           }
         ],
         "insightZh": "这是一则预告，尚不足以判断产品能力。更有价值的观察点是正式发布后的功能范围、可用地区和实际使用门槛。"
@@ -1469,7 +1503,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104984413113393152/vid/avc1/1920x1080/9gGn_oekezTJaPRZ.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104984413113393152/img/ww-kV51l6J5DwxZJ.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104984413113393152/img/ww-kV51l6J5DwxZJ.jpg",
+            "localUrl": "assets/news-videos/25a166fb2a1f9a9a.mp4"
           }
         ],
         "insightZh": "持续在线的代理可能把“每次重新下指令”变成长期跟进任务。真正影响体验的是它能否记住目标、在合适的时机行动，并把需要人决定的事项交回来；发布口号本身还不能证明这些能力。"
@@ -1486,7 +1521,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104984622191067137/vid/avc1/1920x1080/XqwxcETJ-aUHrd3Q.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104984622191067137/img/6xK8vFcs_vBe4SKN.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104984622191067137/img/6xK8vFcs_vBe4SKN.jpg",
+            "localUrl": "assets/news-videos/718bff6c66688b8e.mp4"
           }
         ],
         "insightZh": "较低的单次调用价格，有机会让更多产品承担持续使用 AI 的成本。但实际成本取决于重试次数、上下文长度和任务成功率，应该用自己的任务比较，而不是只看模型标价。"
@@ -1503,7 +1539,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104979273312583680/vid/avc1/1920x1080/vbvkgmNi7bZAstnb.mp4",
-            "poster": "https://pbs.twimg.com/media/HTZls2TbAAA5hj1.jpg"
+            "poster": "https://pbs.twimg.com/media/HTZls2TbAAA5hj1.jpg",
+            "localUrl": "assets/news-videos/63fca9fd28f91c0f.mp4"
           }
         ],
         "insightZh": "这条内容更多是在引导用户进入产品。对个人代理而言，首次体验是否能快速理解用户目标、解释访问权限，并完成一个小任务，会比拟人化表达更影响留存。"
@@ -1520,7 +1557,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104934151245996034/vid/avc1/1920x1080/UNOWK0BrwlKKvSE5.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104934151245996034/img/zEwcejRdC74PaD4t.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104934151245996034/img/zEwcejRdC74PaD4t.jpg",
+            "localUrl": "assets/news-videos/c581669bf92d6189.mp4"
           }
         ],
         "insightZh": "这是活动时间提醒，不能据此推断将发布哪些能力。适合关注正式演示和随后开放的文档，把发布会中的承诺与实际可用功能分开看。"
@@ -1573,7 +1611,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104993936112779264/vid/avc1/1920x1080/b-lrt-VyRDdcfdQC.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104993936112779264/img/lmUTqfZ4cb7RxKfp.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104993936112779264/img/lmUTqfZ4cb7RxKfp.jpg",
+            "localUrl": "assets/news-videos/c7c78748dc692488.mp4"
           }
         ],
         "insightZh": "更快的生成速度可能减少编程和交互中的等待，但端到端任务还包括工具执行、检索与验证。选择高级速度档位时，应对照完整任务耗时和额外费用，而不只看每秒 token 数。"
@@ -1626,7 +1665,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104987159128403968/vid/avc1/1366x768/LDhuEpsKnIhjlh-G.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104987159128403968/img/RriM_KZQz2BN_w4s.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104987159128403968/img/RriM_KZQz2BN_w4s.jpg",
+            "localUrl": "assets/news-videos/df47f491235ea3f0.mp4"
           }
         ],
         "insightZh": "持续检查新提交，有机会让安全审查更早进入开发流程。关键是告警能否复现、修复是否改变业务行为，以及人工是否能清楚判断优先级；自动扫描与自动合并修复仍是不同的授权。"
@@ -1679,7 +1719,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104993904491913216/vid/avc1/3840x2160/X59wzvXayQxpnvIs.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104993904491913216/img/KG7bXyR8OzRt4FiD.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104993904491913216/img/KG7bXyR8OzRt4FiD.jpg",
+            "localUrl": "assets/news-videos/09b5d9e9e34feaaa.mp4"
           }
         ],
         "insightZh": "设计交付信息直接进入编程工具，可能减少设计师与开发者来回转述的成本。落地时仍要检查组件状态、响应式规则和视觉还原，避免把“读到设计稿”误认为“实现已经正确”。"
@@ -1696,7 +1737,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104631671999832064/vid/avc1/1920x1080/Uh3ybCqyzrY6O2Te.mp4",
-            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104631671999832064/img/2WsSOtoZdVD39X2_.jpg"
+            "poster": "https://pbs.twimg.com/amplify_video_thumb/2104631671999832064/img/2WsSOtoZdVD39X2_.jpg",
+            "localUrl": "assets/news-videos/9c41badc02f83cd2.mp4"
           }
         ],
         "insightZh": "创作者访谈的价值在于看到视觉选择背后的参考与思路。对设计师，可以把其中的素材组织方式用于建立自己的参考库，而不是只复制最终风格。"
@@ -1797,7 +1839,8 @@ window.aiNewsIssues = [
         "videos": [
           {
             "url": "https://video.twimg.com/amplify_video/2104648487820214272/vid/avc1/1080x1080/_Nn8JzTbr9-Uy_SJ.mp4",
-            "poster": "https://pbs.twimg.com/media/HTU2x2yXkAAuejA.jpg"
+            "poster": "https://pbs.twimg.com/media/HTU2x2yXkAAuejA.jpg",
+            "localUrl": "assets/news-videos/4b52d376fe27316d.mp4"
           }
         ],
         "insightZh": "品牌网站提速只有在真实用户访问中得到验证，才有明确价值。这条帖子没有提供测量数据，不能据此判断提升幅度；可以关注移动网络下的加载和交互表现。"
