@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="description" content="魏杰收藏的字体、色彩、3D、着色器与图标设计工具。">
+  <meta name="theme-color" content="#ffffff">
+  <title>WJ design</title>
+  <link rel="icon" type="image/png" href="assets/weijie.png?v=27">
+  <link rel="apple-touch-icon" href="assets/weijie.png">
+  <link rel="stylesheet" href="styles.css?v=41">
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <div class="page-progress" id="pageProgress" aria-hidden="true"></div>
+
+  <div class="catalogue-shell">
+    <button class="mobile-backdrop" id="mobileBackdrop" type="button" aria-label="关闭菜单" tabindex="-1" hidden></button>
+    <aside class="sidebar" id="sidebar" aria-label="网站导航" data-lenis-prevent>
+      <button class="mobile-close" id="mobileClose" type="button" aria-label="关闭菜单"><i data-lucide="x"></i></button>
+      <a class="brand-orb" href="?page=news#top" data-page="news" aria-label="返回 AI 资讯首页"><img src="assets/weijie.png" alt="魏杰头像" width="160" height="160"></a>
+      <a class="brand-name" href="?page=news#top" data-page="news">weijie<span>.design</span></a>
+      <h1>我是UX设计师，我喜欢设计，更喜欢用AI构建产品，以下是我开发的产品和我收集的资源</h1>
+
+      <div class="side-divider"></div>
+      <div class="primary-nav-wrap">
+      <p class="side-label">导航</p>
+      <nav class="primary-nav" aria-label="主导航" data-lenis-prevent>
+        <a href="?page=news" data-page="news"><span class="nav-symbol"><i data-lucide="newspaper"></i></span><span>AI资讯</span><em>每日</em></a>
+        <a href="?page=products" data-page="products"><span class="nav-symbol"><i data-lucide="panels-top-left"></i></span><span>我开发的产品</span><em>04</em></a>
+        <a href="?page=inspiration" data-page="inspiration"><span class="nav-symbol"><i data-lucide="sparkles"></i></span><span>灵感</span><em>125</em></a>
+        <a href="?page=components" data-page="components"><span class="nav-symbol"><i data-lucide="component"></i></span><span>组件</span><em>120</em></a>
+        <a href="?page=build" data-page="build"><span class="nav-symbol"><i data-lucide="panels-top-left"></i></span><span>构建</span><em>13</em></a>
+        <a href="?page=visuals" data-page="visuals"><span class="nav-symbol"><i data-lucide="layout-grid"></i></span><span>视觉工具</span><em>55</em></a>
+        <a href="?page=utilities" data-page="utilities"><span class="nav-symbol"><i data-lucide="sliders-horizontal"></i></span><span>实用工具</span><em>12</em></a>
+        <a href="?page=designer" data-page="designer"><span class="nav-symbol"><i data-lucide="at-sign"></i></span><span>X 值得关注</span><em>65</em></a>
+      </nav>
+      </div>
+
+      <div class="section-nav-wrap">
+        <div class="section-nav-header"><p class="side-label">分类</p></div>
+        <nav class="section-nav" id="sectionNav" aria-label="页面章节" data-lenis-prevent></nav>
+      </div>
+
+      <div class="sidebar-bottom">
+        <div class="mini-marks"><img src="assets/weijie.png" alt="魏杰" width="25" height="25"></div>
+        <div class="sidebar-links">
+          <span class="wechat-group">
+            <button type="button" aria-describedby="wechatGroupPopover">微信群</button>
+            <span class="wechat-popover" id="wechatGroupPopover" role="tooltip">
+              <img src="assets/wechat-ai-news-group.jpeg" alt="AI 资讯微信群二维码" width="939" height="1455">
+              <small>微信扫码加入 AI 资讯群</small>
+            </span>
+          </span>
+          <a href="mailto:wj121800@gmail.com">合作</a><a href="?page=about" data-page="about">关于</a>
+        </div>
+      </div>
+    </aside>
+
+    <main id="main">
+      <header class="topbar" id="top">
+        <button class="icon-control menu-control" id="mobileMenu" type="button" aria-label="打开菜单" aria-controls="sidebar" aria-expanded="false"><i data-lucide="menu"></i></button>
+        <div class="topbar-left">
+          <button class="quiet-control" id="savedButton" type="button" aria-label="查看收藏"><i data-lucide="bookmark"></i><span id="savedLabel">收藏</span></button>
+          <button class="icon-control" id="submitButton" type="button" aria-label="提交工具"><i data-lucide="plus"></i></button>
+        </div>
+        <div class="topbar-right">
+          <button class="text-control" id="searchButton" type="button"><i data-lucide="search"></i><span>搜索</span><kbd>⌘</kbd><kbd>K</kbd></button>
+          <button class="text-control" id="exploreButton" type="button"><i data-lucide="shuffle"></i><span>随机探索</span><kbd>⌘</kbd><kbd>E</kbd></button>
+          <span class="control-divider"></span>
+          <button class="icon-control active" id="viewButton" type="button" aria-label="切换为网格视图" aria-pressed="false"><i data-lucide="list"></i></button>
+          <button class="icon-control" id="themeButton" type="button" aria-label="切换主题"><i data-lucide="sun-moon"></i></button>
+        </div>
+      </header>
+
+      <div class="featured-wrap" id="visuals" hidden></div>
+
+      <div class="sections" id="sections"></div>
+
+      <footer class="site-footer">
+        <div class="support-area">
+          <div class="support-heading"><strong>贡献者</strong><span>感谢每一份支持</span></div>
+          <div class="support-people">
+            <div class="support-person"><span class="support-avatar">WJ</span><span>魏杰</span></div>
+            <div class="support-person support-empty"><span class="support-avatar">+</span><span>成为支持者</span></div>
+          </div>
+          <button class="support-button" id="supportButton" type="button"><i data-lucide="heart"></i>支持这个网站</button>
+          <p>wei jie<span>.design</span></p><small>© <b id="year"></b> 魏杰<br>为产品设计实践而建。</small>
+        </div>
+        <nav aria-label="页脚导航">
+          <div><strong>导航</strong><a href="?page=products" data-page="products">我开发的产品</a><a href="?page=inspiration" data-page="inspiration">灵感</a><a href="?page=components" data-page="components">组件</a><a href="?page=build" data-page="build">构建</a><a href="?page=visuals" data-page="visuals">视觉工具</a></div>
+          <div><strong>联系</strong><a href="mailto:wj121800@gmail.com">邮箱</a><a href="https://github.com/wj-perry" target="_blank" rel="noreferrer">GitHub</a><a href="https://x.com/perry_weijie" target="_blank" rel="noreferrer">Twitter</a></div>
+        </nav>
+      </footer>
+    </main>
+  </div>
+
+  <dialog class="command-dialog" id="searchDialog">
+    <div class="command-box">
+      <label class="command-search"><i data-lucide="search"></i><input id="commandInput" type="search" placeholder="搜索工具、分类或网站…" autocomplete="off"><kbd>退出</kbd></label>
+      <div class="command-results" id="commandResults"></div>
+    </div>
+  </dialog>
+
+  <dialog class="detail-dialog" id="detailDialog">
+    <button class="dialog-close" id="detailClose" type="button" aria-label="关闭详情"><i data-lucide="x"></i></button>
+    <button class="dialog-step previous" id="detailPrevious" type="button" aria-label="上一个工具"><i data-lucide="chevron-left"></i></button>
+    <button class="dialog-step next" id="detailNext" type="button" aria-label="下一个工具"><i data-lucide="chevron-right"></i></button>
+    <div class="detail-window">
+      <div class="detail-visual"><img id="detailImage" alt="" width="1200" height="750"><span id="detailLoading">正在生成网站预览…</span></div>
+      <div class="detail-meta">
+        <img id="detailIcon" alt="" width="20" height="20">
+        <strong id="detailName"></strong>
+        <p id="detailDescription"></p>
+        <div><span id="detailCategory"></span><span>·</span><span id="detailDomain"></span></div>
+        <button class="save-detail" id="detailSave" type="button" aria-label="收藏当前工具">♡</button>
+        <a id="detailVisit" href="#" target="_blank" rel="noreferrer">访问网站 ↗</a>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog class="submit-dialog" id="submitDialog">
+    <form method="dialog" id="submitForm">
+      <button class="dialog-close" value="cancel" aria-label="关闭提交表单"><i data-lucide="x"></i></button>
+      <span class="form-kicker">提交工具</span>
+      <h2>推荐一个设计资源</h2>
+      <p>填写后会保存在当前浏览器，方便你后续整理。</p>
+      <label>工具名称<input id="submitName" required placeholder="例如：设计工具"></label>
+      <label>网站链接<input id="submitUrl" type="url" required placeholder="https://"></label>
+      <button class="submit-action" value="submit">保存推荐</button>
+    </form>
+  </dialog>
+
+  <dialog class="support-dialog" id="supportDialog">
+    <form method="dialog">
+      <button class="dialog-close" value="cancel" aria-label="关闭打赏窗口"><i data-lucide="x"></i></button>
+      <span class="form-kicker">支持创作</span>
+      <h2>感谢你的支持</h2>
+      <p>请选择一种支持方式。收到支持后，头像和名称可以加入贡献者区域。</p>
+      <div class="support-methods">
+        <button type="button" class="support-method active" data-method="wechat">微信</button>
+        <button type="button" class="support-method" data-method="alipay">支付宝</button>
+        <button type="button" class="support-method" data-method="card">信用卡</button>
+      </div>
+      <div class="support-method-panel support-qr-panel" data-panel="wechat">
+        <img class="support-qr" src="assets/wechat-payment-qr.jpg" width="828" height="1124" alt="微信收款码">
+      </div>
+      <div class="support-method-panel support-qr-panel" data-panel="alipay" hidden>
+        <img class="support-qr" src="assets/alipay-payment-qr.jpg" width="1708" height="2560" alt="支付宝收款码">
+      </div>
+      <div class="support-method-panel" data-panel="card" hidden>信用卡支付需要接入 Stripe、Creem 等支付服务后启用。</div>
+      <a class="support-mail" href="mailto:wj121800@gmail.com?subject=贡献者信息">支付后提交头像与名称</a>
+    </form>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="visuals-data.js"></script>
+  <script src="components-data.js"></script>
+  <script src="products-data.js?v=32"></script>
+  <script src="resources.js"></script>
+  <script src="resources-zh.js"></script>
+  <script src="assets/lucide.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lenis@1.3.11/dist/lenis.min.js"></script>
+  <script src="news-data.js?v=39"></script>
+  <script src="news.js?v=40"></script>
+  <script src="script.js?v=37"></script>
+</body>
+</html>

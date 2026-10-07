@@ -30,7 +30,7 @@ jobs:
         env:
           EDGEONE_API_TOKEN: ${{ secrets.EDGEONE_API_TOKEN }}
         run: |
-          npx --yes edgeone makers deploy . \
+          npx --yes edgeone makers deploy ./website \
             -n wj-design \
             -t "$EDGEONE_API_TOKEN" \
             -e production
