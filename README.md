@@ -15,7 +15,7 @@
 
 ## 内容范围
 
-最近七天的 OpenAI、Anthropic、Google DeepMind、Hugging Face、Vercel、Figma 公开原帖。最多两页、200 条原帖中选取 30 条，按关键词分类，正文支持自动中文翻译，保留原文与原帖链接；带图片的原帖保留配图。归档保留 52 期，同周重跑替换当周记录。X recent search 只支持近期搜索，因此不能用于恢复很久以前漏发的周报。
+最近一天的 OpenAI、Anthropic、Google DeepMind、Hugging Face、Vercel、Figma 等公开原帖，以及 Tesla 官方账号中与自动驾驶、机器人、车载 AI、Roadster 和新车发布相关的帖子。各来源合并后选取 15 条，按关键词分类，正文支持自动中文翻译，保留原文与原帖链接；带图片或视频的原帖保留媒体。归档保留 52 期，同日重跑替换当天记录。X recent search 只支持近期搜索，因此不能用于恢复很久以前漏发的资讯。
 
 来源、分类和数量可在 `settings.json` 中调整。关键词分类不代表人工核实；网站保留原帖链接。
 

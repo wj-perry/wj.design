@@ -52,7 +52,15 @@ export async function collect({ token, settings, now = new Date(), request = fet
   }
   }
   const categoryFor = text => Object.entries(settings.categories).find(([, words]) => words.some(word => text.toLowerCase().includes(word.toLowerCase())))?.[0] || '其他';
-  const candidates = [...posts.values()].filter(p => users.has(p.author_id) && typeof p.text === 'string').filter(p => !settings.bloggerAccounts?.includes(users.get(p.author_id).username) || (settings.bloggerKeywords || []).some(word => word === 'ai' ? /\bai\b/i.test(p.text) : p.text.toLowerCase().includes(word.toLowerCase())));
+  const matchesKeywords = (text, keywords) => keywords.some(word => word === 'ai' ? /\bai\b/i.test(text) : text.toLowerCase().includes(word.toLowerCase()));
+  const candidates = [...posts.values()]
+    .filter(p => users.has(p.author_id) && typeof p.text === 'string')
+    .filter(p => {
+      const username = users.get(p.author_id).username;
+      const accountKeywords = settings.accountKeywords?.[username];
+      if (accountKeywords) return matchesKeywords(p.text, accountKeywords);
+      return !settings.bloggerAccounts?.includes(username) || matchesKeywords(p.text, settings.bloggerKeywords || []);
+    });
   const items = (settings.cadence === 'daily' ? selectPosts(candidates, settings, previousItems) : candidates.sort((a,b) => (b.public_metrics?.like_count || 0) - (a.public_metrics?.like_count || 0)).slice(0, settings.maxItems)).map(p => ({ id: p.id, text: p.text, author: users.get(p.author_id).username, authorName: users.get(p.author_id).name, avatar: users.get(p.author_id).profile_image_url, videos: (p.attachments?.media_keys || []).map(key => media.get(key)).filter(m => m && ['video','animated_gif'].includes(m.type)).map(m => ({url: (m.variants || []).filter(v => v.content_type === 'video/mp4' && /^https:\/\/video\.twimg\.com\//.test(v.url || '')).sort((a,b) => (b.bit_rate || 0) - (a.bit_rate || 0))[0]?.url, poster: /^https:\/\/pbs\.twimg\.com\//.test(m.preview_image_url || '') ? m.preview_image_url : undefined})).filter(v => v.url), createdAt: p.created_at, category: categoryFor(p.text), images: (p.attachments?.media_keys || []).map(key => media.get(key)).filter(image => image?.type === 'photo' && /^https:\/\/pbs\.twimg\.com\//.test(image.url || '')).map(image => ({ url: image.url, alt: image.alt_text || '原帖配图', width: image.width, height: image.height })) }));
   if (!items.length) throw new Error('本次没有新的符合条件的资讯，已有周报保持不变。');
   const id = issueId(now, settings);

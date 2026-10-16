@@ -79,3 +79,9 @@ test('a failed source query prevents publishing a partial daily edition', async 
     return calls===1?{ok:true,json:async()=>({data:[{id:'p',text:'New API',author_id:'a'}],includes:{users:[{id:'a',username:'OpenAI'}]}})}:{ok:false,status:429};
   }}));
 });
+
+test('account-specific keywords admit Tesla technology and vehicle launches only', async () => {
+  const accountSettings={...settings,cadence:'daily',maxItems:15,accountKeywords:{Tesla:['fsd','optimus','roadster','new model','unveil','launch']}};
+  const issue=await collect({token:'test',settings:accountSettings,request:async()=>({ok:true,json:async()=>({data:[{id:'merch',text:'New hats are available in the shop',author_id:'t'},{id:'fsd',text:'FSD expands to a new market',author_id:'t'},{id:'roadster',text:'Roadster unveil starts now',author_id:'t'},{id:'openai',text:'A product announcement',author_id:'a'}],includes:{users:[{id:'t',username:'Tesla'},{id:'a',username:'OpenAI'}]}})})});
+  assert.deepEqual(new Set(issue.items.map(x=>x.id)),new Set(['fsd','roadster','openai']));
+});
